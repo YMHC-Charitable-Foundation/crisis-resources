@@ -1,26 +1,26 @@
 ---
 title: "CHIMO Crisis Line (Richmond & South Delta)"
+sidebar_label: "CHIMO Crisis Line"
 ---
 
-**Location:** British Columbia, Canada  
-**Resource type:** Crisis line / live chat  
+## About
+CHIMO’s Crisis Line provides free, confidential, non-judgmental emotional support for people in **Richmond** and **South Delta**. Support is available by phone, with live chat available through CHIMO’s website.
+
+## Coverage
+- **Richmond and South Delta, BC**
+
+## Who it’s for
+- People in Richmond or South Delta who are in distress, in crisis, or just need someone to talk to
 
 ## Contact
+- **Call:** **604-279-7070**
+- **Website:** https://chimoservices.com/ (look for “Crisis Line and Live Chat”)
 
-- **Call:** 604-279-7070
-- **Website:** https://chimoservices.com/
-
-## About
-
-Crisis line and live chat support for Richmond and South Delta (check site for hours).
-
-## Important
-
-- If you or someone else is in immediate danger, call **911** (or go to the nearest emergency department).
-- If you can’t get through, try another local line, or dial **211** where available for service navigation.
+## Hours
+- **8:00am–12:00am (midnight), 7 days/week**
 
 ## Sources
+- CHIMO — Crisis Line and Live Chat: https://chimoservices.com/crisis-line-and-live-chat/
+- CHIMO — Contact (Crisis Line hours): https://chimoservices.com/contact/
 
-- https://chimoservices.com/
-
-*Last compiled/checked: December 17, 2025*
+*Last compiled/checked: December 23, 2025*

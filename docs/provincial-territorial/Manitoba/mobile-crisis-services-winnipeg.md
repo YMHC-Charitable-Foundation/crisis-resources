@@ -1,26 +1,29 @@
 ---
-title: "Mobile Crisis Services (Winnipeg)"
+title: "Mobile Crisis Service (Winnipeg)"
+sidebar_label: "Mobile Crisis Service (Winnipeg)"
 ---
 
-**Location:** Manitoba, Canada  
-**Resource type:** Crisis support (Lifeline directory listing)  
+## About
+Winnipeg’s Mobile Crisis Service provides **24/7** phone-based mental health crisis support for adults, with the option of crisis assessment, short-term follow-up, and connection to other crisis services when needed.
+
+## Coverage
+**Winnipeg**.
+
+## Who it’s for
+- **Adults in Winnipeg** experiencing a mental health or psychosocial crisis (including possible co-occurring substance use)
+- Family members, friends, and service providers concerned about someone in crisis
 
 ## Contact
-
 - **Call:** 204-940-1781
-- **Toll-free:** 1-888-322-3019
 
-## About
+## Hours
+- **24/7**
 
-Crisis support service listed for Manitoba.
-
-## Important
-
-- If you or someone else is in immediate danger, call **911** (or go to the nearest emergency department).
-- If you can’t get through, try another local line, or dial **211** where available for service navigation.
+## What to expect when you call
+A mental health professional will talk with you to understand what’s happening and help decide the safest next step (for example: coping strategies, referrals, short-term follow-up, or connection to in-person crisis services).  
 
 ## Sources
+- Winnipeg Mobile Crisis Service fact sheet (WRHA): https://wrha.mb.ca/files/mobile-crisis-e.pdf
+- Shared Health — Crisis Response Centre (Crisis Service phone): https://sharedhealthmb.ca/services/mental-health/mha-services/crisis-response-centre/
 
-- https://thelifelinecanada.ca/manitoba-crisis-centres/
-
-*Last compiled/checked: December 17, 2025*
+*Last compiled/checked: December 23, 2025*

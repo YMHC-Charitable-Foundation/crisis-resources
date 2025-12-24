@@ -31,5 +31,23 @@
 
 /* Custom Light Background for specific elements if needed */
 .highlight-bg {
-    background-color: #dfeeee;
+  background-color: #dfeeee;
+}
+
+/* Exit Site Button */
+.exit-site-button {
+  background-color: #d9534f;
+  color: white !important;
+  font-weight: bold;
+  padding: 0.25rem 0.75rem;
+  border-radius: 4px;
+  margin-left: 10px;
+  transition: opacity 0.2s;
+}
+
+.exit-site-button:hover {
+  background-color: #c9302c;
+  /* slightly darker on hover */
+  text-decoration: none;
+  opacity: 0.9;
 }

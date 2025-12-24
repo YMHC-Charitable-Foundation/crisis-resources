@@ -1,27 +1,30 @@
 ---
 title: "Distress Centre Calgary"
+sidebar_label: "Distress Centre Calgary"
 ---
 
-**Location:** Alberta, Canada  
-**Resource type:** 24/7 crisis line (call/text/chat)  
-**Hours:** 24/7  
+## About
+Distress Centre Calgary provides **free, confidential** crisis support, including emotional support, crisis intervention, and suicide prevention.
+
+## Coverage
+**Calgary and Southern Alberta.**
+
+## Who it’s for
+- Anyone in Calgary or Southern Alberta who needs to talk, is in crisis, or is worried about someone else
 
 ## Contact
+- **Call or text (24-hour crisis line):** 403-266-4357 (403-266-HELP)
+- **Online chat:** Use the message icon on the website
+- **Website:** https://distresscentre.com/24-hour-crisis-support/
 
-- **Call:** 403-266-4357
-- **Website:** https://distresscentre.com/
+## Hours
+- **24/7/365** (phone, text, and online chat)
 
-## About
-
-Confidential emotional support, crisis intervention, and suicide prevention.
-
-## Important
-
-- If you or someone else is in immediate danger, call **911** (or go to the nearest emergency department).
-- If you can’t get through, try another local line, or dial **211** where available for service navigation.
+## What to expect when you call or text
+A trained responder will listen without judgment, provide support, and help connect you to resources as needed.
 
 ## Sources
-
 - https://distresscentre.com/24-hour-crisis-support/
+- https://distresscentre.com/crisis-chat/
 
-*Last compiled/checked: December 17, 2025*
+*Last compiled/checked: December 23, 2025*

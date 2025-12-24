@@ -1,25 +1,32 @@
 ---
-title: "CPS du Nord-du-Québec (Lebel-sur-Quévillon)"
+title: "Comité de prévention du suicide de Lebel‑sur‑Quévillon"
+sidebar_label: "CPS Lebel-sur-Quévillon"
 ---
+## À propos
+Le **Comité de prévention du suicide de Lebel‑sur‑Quévillon** offre de l’écoute, de la sensibilisation et du soutien en lien avec la crise suicidaire.
 
-**Location:** Quebec, Canada  
-**Resource type:** Regional crisis centre/line (Lifeline directory listing)  
+## Couverture
+- **Lebel‑sur‑Quévillon** (Nord‑du‑Québec / Jamésie)
+
+## Pour qui
+- Personnes qui pensent au suicide
+- Proches inquiets
+- Toute personne qui cherche du soutien ou de l’information
 
 ## Contact
+- **Ligne locale:** 819 755-3911
+- **En tout temps (24/7) si vous n’arrivez pas à joindre localement:** **1 866 APPELLE** (1 866 277-3553)
 
-- **Call:** 418-748-6373
+## Heures
+- (Heures variables selon les services — si vous êtes en crise, utilisez **1 866 APPELLE**)
 
-## About
+## Langues
+- Français
 
-Regional crisis support service listed for Quebec.
-
-## Important
-
-- If you or someone else is in immediate danger, call **911** (or go to the nearest emergency department).
-- If you can’t get through, try another local line, or dial **211** where available for service navigation.
+## Notes
+Le site officiel de l’organisme n’était pas accessible au moment de la vérification; la page Facebook est la présence officielle la plus à jour trouvée.
 
 ## Sources
+- Page Facebook (présence officielle): https://www.facebook.com/cpslebel/?locale=fr_CA
 
-- https://thelifelinecanada.ca/quebec-crisis-centres/
-
-*Last compiled/checked: December 17, 2025*
+*Dernière vérification : 24 décembre 2025*

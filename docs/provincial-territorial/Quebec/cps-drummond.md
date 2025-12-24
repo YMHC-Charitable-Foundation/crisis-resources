@@ -1,26 +1,32 @@
 ---
-title: "CPS Drummond"
+title: "Centre d’écoute et de prévention suicide Drummond (CEPSD)"
+sidebar_label: "CEPS Drummond"
 ---
+## À propos
+Le **Centre d’écoute et de prévention suicide Drummond (CEPSD)** offre de l’écoute et du soutien en lien avec la crise suicidaire.
 
-**Location:** Quebec, Canada  
-**Resource type:** Regional crisis centre/line (Lifeline directory listing)  
+## Couverture
+- **Drummond** (Centre‑du‑Québec)
+
+## Pour qui
+- Personnes qui pensent au suicide
+- Proches inquiets
+- Personnes endeuillées
 
 ## Contact
+- **Ligne locale:** 819 477-8855
+- **En tout temps (24/7):** **1 866 APPELLE** (1 866 277-3553)
 
-- **Call:** 819-477-8855
-- **Toll-free:** 1-866-APPELLE (1-866-277-3553)
+## Heures
+- **24/7:** via **1 866 APPELLE** (et services locaux selon disponibilité)
 
-## About
+## Langues
+- Français
 
-Regional crisis support service listed for Quebec.
-
-## Important
-
-- If you or someone else is in immediate danger, call **911** (or go to the nearest emergency department).
-- If you can’t get through, try another local line, or dial **211** where available for service navigation.
+## À quoi s’attendre quand vous appelez
+Écoute, soutien et orientation vers les ressources pertinentes.
 
 ## Sources
+- Document CEPSD (ressources et numéros): https://cepsd.ca/wp-content/uploads/2025/04/Livret-proche.pdf
 
-- https://thelifelinecanada.ca/quebec-crisis-centres/
-
-*Last compiled/checked: December 17, 2025*
+*Dernière vérification : 24 décembre 2025*

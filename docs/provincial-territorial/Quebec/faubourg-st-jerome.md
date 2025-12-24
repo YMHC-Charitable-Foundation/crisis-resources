@@ -1,26 +1,35 @@
 ---
-title: "Faubourg (St-Jérôme)"
+title: "Centre de prévention du suicide Le Faubourg (Laurentides – Saint-Jérôme)"
 ---
 
-**Location:** Quebec, Canada  
-**Resource type:** Regional crisis centre/line (Lifeline directory listing)  
+## À propos
+Le **Centre de prévention du suicide Le Faubourg** offre des services d’intervention et de soutien au deuil **gratuits** et **confidentiels** dans les Laurentides. 
+
+## Couverture
+- **Laurentides** (ligne locale)
+- **Partout au Québec** via la ligne sans frais **1 866 APPELLE** 
+
+## Pour qui
+La ligne d’intervention s’adresse notamment aux personnes qui :  
+- vivent une situation de **détresse** ou de **crise**  
+- s’inquiètent pour un **proche**  
+- sont **endeuillées** à la suite d’un suicide  
+- souhaitent des **conseils / de l’information** 
 
 ## Contact
+- **Aide 24/7 (Laurentides) :** 450 569-0101   
+- **Sans frais (Québec) :** 1 866 APPELLE (277-3553)   
 
-- **Call:** 450-569-0101
-- **Toll-free:** 1-866-APPELLE (1-866-277-3553)
+## Heures
+- **Ligne d’intervention : 24/7** 
 
-## About
+## À quoi s’attendre quand vous appelez
+Un·e intervenant·e professionnel·le formé·e en crise suicidaire vous écoute **sans jugement**, vous aide à prendre du recul et à envisager des solutions. 
 
-Regional crisis support service listed for Quebec.
-
-## Important
-
-- If you or someone else is in immediate danger, call **911** (or go to the nearest emergency department).
-- If you can’t get through, try another local line, or dial **211** where available for service navigation.
+## Approche de confidentialité et sécurité
+Services offerts **en toute confidentialité**. 
 
 ## Sources
+- Centre de prévention du suicide Le Faubourg — Services et ligne d’intervention : https://cps-le-faubourg.org/services-soutien-laurentides/
 
-- https://thelifelinecanada.ca/quebec-crisis-centres/
-
-*Last compiled/checked: December 17, 2025*
+*Last compiled/checked: December 23, 2025*

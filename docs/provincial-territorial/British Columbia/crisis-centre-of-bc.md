@@ -1,28 +1,40 @@
 ---
-title: "Crisis Centre of BC"
+title: "Crisis Centre BC"
+sidebar_label: "Crisis Centre BC"
 ---
 
-**Location:** British Columbia, Canada  
-**Resource type:** Crisis line / suicide prevention  
+## About
+Crisis Centre BC provides **24/7** barrier-free, non-judgmental support through phone and SMS crisis services.
+
+## Coverage
+- **British Columbia** (including BC-wide crisis services)
+- **Canada-wide** via **9-8-8** (national suicide crisis helpline)
+
+## Who it’s for
+- Anyone in **BC** experiencing distress, a mental health crisis, or thoughts of suicide
+- Anyone in **Canada** who needs suicide crisis support via **9-8-8** (call or text)
 
 ## Contact
+- **Call or text (Canada):** **9-8-8**
+- **Call (BC Mental Health & Crisis Response):** **310-6789** (no area code needed)
+- **Call (BC Suicide Prevention and Intervention Line):** **1-800-SUICIDE (1-800-784-2433)**
+- **Call (Vancouver Coastal Regional Distress Line / Lower Mainland):** **604-872-3311**
+- **Website:** https://www.crisiscentre.bc.ca/get-support/crisis-lines/
 
-- **Crisis line (Lower Mainland):** 604-872-3311
-- **Toll-free:** 1-800-SUICIDE (784-2433)
-- **310-6789:** Dial 310-6789 (no area code)
-- **Website:** https://crisiscentre.bc.ca/
+## Hours
+- **24/7/365**
 
-## About
+## Languages
+- **English and French** options may be available (e.g., through 9-8-8)
 
-Crisis support and suicide prevention; connects to regional crisis lines and services (see website).
-
-## Important
-
-- If you or someone else is in immediate danger, call **911** (or go to the nearest emergency department).
-- If you can’t get through, try another local line, or dial **211** where available for service navigation.
+## What to expect when you call or text
+- Compassionate, judgment-free listening and support while you work through what’s happening
+- For **9-8-8**, you may hear a brief recorded message and be offered options like language (English/French), youth, or First Nations/Inuit/Métis pathways
+- Depending on where you are, you may be routed to an existing crisis service in your region
 
 ## Sources
+- Crisis Centre BC — Crisis Lines: https://www.crisiscentre.bc.ca/get-support/crisis-lines/
+- Crisis Centre BC — “What can I expect when I call the Crisis Line?”: https://www.crisiscentre.bc.ca/faq/what-can-i-expect-when-i-call-the-crisis-line/
+- Crisis Centre BC — Home (24/7 phone and SMS services): https://www.crisiscentre.bc.ca/
 
-- https://crisiscentre.bc.ca/
-
-*Last compiled/checked: December 17, 2025*
+*Last compiled/checked: December 23, 2025*

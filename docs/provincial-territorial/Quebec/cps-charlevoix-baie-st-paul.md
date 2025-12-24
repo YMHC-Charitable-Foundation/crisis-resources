@@ -1,26 +1,35 @@
 ---
-title: "CPS Charlevoix (Baie-St-Paul)"
+title: "Centre de prévention du suicide de Charlevoix (La Malbaie / Baie-Saint-Paul)"
+sidebar_label: "CPS Charlevoix"
 ---
+## À propos
+Le **Centre de prévention du suicide de Charlevoix (CPSC)** offre des services de prévention, d’intervention et de postvention pour la population de Charlevoix.
 
-**Location:** Quebec, Canada  
-**Resource type:** Regional crisis centre/line (Lifeline directory listing)  
+## Couverture
+- **Charlevoix** (bureaux à La Malbaie et point de service à Baie‑Saint‑Paul)
+
+## Pour qui
+- Personnes qui pensent au suicide
+- Proches inquiets
+- Personnes endeuillées par suicide
 
 ## Contact
+- **Ligne locale (bureau):** 418 665-0096
+- **Soir / nuit / fin de semaine (24/7):** **1 866 APPELLE** (1 866 277-3553)
+- **Courriel:** aide@cps-charlevoix.com
+- **Clavardage (Québec):** suicide.ca
 
-- **Call:** 418-435-2212
-- **Toll-free:** 1-866-APPELLE (1-866-277-3553)
+## Heures
+- **Lundi au vendredi:** 8 h 30 à 16 h 30  
+- **24/7:** via **1 866 APPELLE**
 
-## About
+## Langues
+- Français
 
-Regional crisis support service listed for Quebec.
-
-## Important
-
-- If you or someone else is in immediate danger, call **911** (or go to the nearest emergency department).
-- If you can’t get through, try another local line, or dial **211** where available for service navigation.
+## À quoi s’attendre quand vous appelez
+Soutien confidentiel et gratuit, avec possibilités d’écoute, d’intervention de crise et d’orientation vers des services.
 
 ## Sources
+- Site officiel (aide / coordonnées / horaires): https://www.cps-charlevoix.com/je-pense-au-suicide/
 
-- https://thelifelinecanada.ca/quebec-crisis-centres/
-
-*Last compiled/checked: December 17, 2025*
+*Dernière vérification : 24 décembre 2025*

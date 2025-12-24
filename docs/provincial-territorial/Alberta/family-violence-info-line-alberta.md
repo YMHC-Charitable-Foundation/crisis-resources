@@ -1,29 +1,37 @@
 ---
 title: "Family Violence Info Line (Alberta)"
+sidebar_label: "Family Violence Info Line (AB)"
 ---
 
-**Location:** Alberta, Canada  
-**Resource type:** Family/domestic violence information & support  
-**Languages:** Multilingual (see Alberta.ca for details)  
-**Hours:** 24/7  
+## About
+The **Family Violence Info Line** connects people in Alberta with trained staff who can provide **confidential support, information, and referrals** related to family violence and domestic violence.
+
+## Coverage
+- **Alberta-wide**
+
+## Who it’s for
+- Anyone in Alberta experiencing family violence or domestic violence
+- People supporting someone else who may be experiencing family violence
 
 ## Contact
-
-- **Call:** 310-1818
+- **Call:** 310-1818 (toll-free in Alberta)
 - **Text:** 310-1818
-- **Website:** https://www.alberta.ca/family-violence-find-supports
+- **Online chat:** via the Alberta.ca page (message icon)
 
-## About
+## Hours
+- **24/7/365**
 
-Support, information, and referrals related to family violence.
+## Languages
+- **Phone support:** available in **170+ languages**
+- **Online chat:** **English only** (per Alberta.ca)
 
-## Important
+## Privacy and safety approach
+- Help is **confidential**.
 
-- If you or someone else is in immediate danger, call **911** (or go to the nearest emergency department).
-- If you can’t get through, try another local line, or dial **211** where available for service navigation.
+## Notes
+- Standard text message rates may apply.
 
 ## Sources
+- Government of Alberta – Family violence: Find supports: https://www.alberta.ca/family-violence-find-supports
 
-- https://www.alberta.ca/family-violence-find-supports
-
-*Last compiled/checked: December 17, 2025*
+*Last compiled/checked: December 23, 2025*

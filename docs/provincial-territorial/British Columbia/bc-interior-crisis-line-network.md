@@ -1,26 +1,28 @@
 ---
 title: "BC Interior Crisis Line Network"
+sidebar_label: "BC Interior Crisis Line"
 ---
 
-**Location:** British Columbia, Canada  
-**Resource type:** Regional crisis line  
+## About
+The **BC Interior Crisis Line Network** provides **24/7** phone-based crisis support. Trained responders offer emotional support and can help connect you to resources in your community.
+
+## Coverage
+- **BC Interior** (British Columbia)
+
+## Who it’s for
+- People in the **BC Interior** experiencing emotional distress or a mental health crisis, or needing support and referrals
 
 ## Contact
-
-- **Call:** 1-888-353-2273
+- **Call:** **1-888-353-2273**
 - **Website:** https://www.interiorcrisisline.com/
 
-## About
+## Hours
+- **24/7/365**
 
-Crisis support for people in the BC Interior (see site).
-
-## Important
-
-- If you or someone else is in immediate danger, call **911** (or go to the nearest emergency department).
-- If you can’t get through, try another local line, or dial **211** where available for service navigation.
+## What to expect when you call
+- A trained crisis line responder will listen, provide support, and help you problem-solve and connect to resources.
 
 ## Sources
+- BC Interior Crisis Line Network — Home: https://www.interiorcrisisline.com/
 
-- https://www.interiorcrisisline.com/
-
-*Last compiled/checked: December 17, 2025*
+*Last compiled/checked: December 23, 2025*

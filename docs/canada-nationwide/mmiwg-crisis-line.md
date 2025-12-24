@@ -1,20 +1,34 @@
 ---
 title: "Missing and Murdered Indigenous Women and Girls (MMIWG) Support Line / Crisis Line (Canada)"
+sidebar_label: "MMIWG Crisis Line"
 ---
-
 ## About
-An independent, national, toll-free support line that provides support to anyone who requires assistance related to missing and murdered Indigenous women, girls, and 2SLGBTQQIA+ people.
+The Missing and Murdered Indigenous Women and Girls (MMIWG) Support Line is described as an **independent, national, toll-free** line available to provide support for anyone who requires assistance.
+
+## Coverage
+- **Canada-wide**
+
+## Who it’s for
+- Anyone impacted by the issue of Missing and Murdered Indigenous Women, Girls, and 2SLGBTQQIA+ people who wants immediate emotional support
 
 ## Contact
-- **Call (toll-free, 24/7):** 1-844-413-6649
+- **Call (toll-free):** **1-844-413-6649**
 
 ## Hours
 - **24/7**
 
-## Cost
-- Free
+## Languages
+MMIWG aftercare information lists service in:
+- **English**
+- **French**
+- **Cree**
+- **Anishnaabemowin (Ojibway)**
+- **Inuktitut**
+
+## What to expect when you call
+Materials describe being able to speak with a counsellor for immediate support.
 
 ## Sources
-- MMIWG Inquiry contact page (support line listing): https://www.mmiwg-ffada.ca/contact/
-- Government of Canada mental health support page (context and number): https://www.canada.ca/en/public-health/services/mental-health-services/mental-health-get-help.html
-- Indigenous Services Canada page also listing the number: https://www.sac-isc.gc.ca/eng/1581971225188/1581971250953
+- MMIWG-FFADA “Contact” page (support line description): https://www.mmiwg-ffada.ca/contact/
+- MMIWG-FFADA “Aftercare services” (languages and support line): https://www.mmiwg-ffada.ca/aftercare-services/
+- Hope for Wellness “Additional Support” (lists the MMIWG crisis line): https://www.hopeforwellness.ca/additional-support/

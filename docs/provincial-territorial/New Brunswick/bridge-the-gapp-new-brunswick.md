@@ -1,26 +1,35 @@
 ---
 title: "Bridge the gapp New Brunswick"
+sidebar_label: "Bridge the gapp (NB)"
 ---
 
-**Location:** New Brunswick, Canada  
-**Resource type:** Online mental health & addictions information and service directory  
+## About
+Bridge the gapp New Brunswick is an **online mental wellness resource** (for adults and youth) that includes:
+- A **service directory** for mental health and addictions supports
+- Self-help information and learning resources
+- Online tools and programs
+
+## Coverage
+- **New Brunswick**
+
+## Who it’s for
+- Adults and youth in New Brunswick looking for information, tools, and a directory of supports
+- Family/friends/caregivers looking to help someone find services
 
 ## Contact
-
-- (See website/source links below.)
 - **Website:** https://nb.bridgethegapp.ca/
+- **Need to talk now (NB Addiction and Mental Health Helpline):** 1-866-355-5550
 
-## About
+## Hours
+- Website: **24/7**
+- Helpline listed on the site: **24/7**
 
-Online tools, programs and service directory (English/French).
-
-## Important
-
-- If you or someone else is in immediate danger, call **911** (or go to the nearest emergency department).
-- If you can’t get through, try another local line, or dial **211** where available for service navigation.
+## Languages
+- **English and French** (site has language toggle)
 
 ## Sources
+- Bridge the gapp (NB) — Adult about page: https://nb.bridgethegapp.ca/adult/about-bridge-the-gapp/
+- Bridge the gapp (NB) — Youth page (includes helpline note): https://nb.bridgethegapp.ca/youth/
+- Bridge the gapp (NB) — Helpline listing: https://nb.bridgethegapp.ca/service-directory/nb-amh-helpline/
 
-- https://nb.bridgethegapp.ca/
-
-*Last compiled/checked: December 17, 2025*
+*Last compiled/checked: December 23, 2025*

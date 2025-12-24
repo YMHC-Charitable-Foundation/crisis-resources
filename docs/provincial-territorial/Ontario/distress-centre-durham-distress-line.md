@@ -1,28 +1,31 @@
 ---
-title: "Distress Centre Durham – Distress Line"
+title: "Distress Centre Durham: Distress Line"
+sidebar_label: "Distress Centre Durham"
 ---
 
-**Location:** Ontario, Canada  
-**Resource type:** 24/7 distress line  
-**Hours:** 24/7 distress line (office hours vary; see site)  
+## About
+Distress Centre Durham provides emotional support and crisis/suicide management by phone, including a **24-hour Distress Line** staffed by trained community volunteers.
+
+## Coverage
+**Durham Region (Ontario).**
+
+## Who it’s for
+- Anyone in **Durham Region** who is feeling overwhelmed, distressed, or in crisis
+- People concerned about someone else
 
 ## Contact
+- **Call (Distress Line):** 905-430-2522
+- **Call (toll-free):** 1-800-452-0688
+- **Office phone (non-crisis):** 905-430-3511
 
-- **Distress line:** 905-430-2522
-- **Toll-free:** 1-800-452-0688
-- **Website:** https://distresscentredurham.com/gethelp/
+## Hours
+- **Distress Line:** 24/7/365
 
-## About
-
-Emotional support and crisis intervention; additional programs such as support groups (see site).
-
-## Important
-
-- If you or someone else is in immediate danger, call **911** (or go to the nearest emergency department).
-- If you can’t get through, try another local line, or dial **211** where available for service navigation.
+## What to expect when you call or text
+A responder will listen without judgment, help you talk through what’s going on, and work with you on immediate next steps and safety.
 
 ## Sources
+- Distress Centre Durham (homepage): https://distresscentredurham.com/
+- Get Help / Distress Line numbers: https://distresscentredurham.com/gethelp/
 
-- https://distresscentredurham.com/gethelp/
-
-*Last compiled/checked: December 17, 2025*
+*Last compiled/checked: December 23, 2025*

@@ -1,26 +1,40 @@
 ---
-title: "Hamilton Crisis Line (COAST)"
+title: "COAST Hamilton (Crisis Outreach and Support Team)"
+sidebar_label: "COAST Hamilton"
 ---
 
-**Location:** Ontario, Canada  
-**Resource type:** Crisis support (Lifeline directory listing)  
+## About
+COAST Hamilton provides a **24/7 crisis phone line** and crisis response support for people experiencing a mental health crisis in Hamilton. COAST also supports caregivers and accepts referrals from individuals, families, and professionals.
+
+## Coverage
+- **Hamilton, Ontario**
+
+## Who it’s for
+- People in Hamilton experiencing a mental health crisis
+- Family members/caregivers seeking urgent support for someone in crisis
 
 ## Contact
+- **Crisis line (Hamilton):** **905-972-8338**
+- **Toll-free:** **1-844-972-8338**
 
-- **Call:** 905-972-8338
-- **Toll-free:** 1-844-972-8338
+## Hours
+- **24/7/365**
 
-## About
+## Languages
+- **English and French**
+- Interpretation may be available for **pre-arranged in-person meetings** (the 211 listing notes interpretation is not available for phone calls).
 
-Crisis support service listed for Ontario.
+## What to expect when you call or text
+- You’ll reach a crisis phone line for support and triage.
+- Depending on your situation, COAST may help plan for safety and connect you with in-person crisis response and/or other services.
 
-## Important
+## Privacy and safety approach
+- COAST is a health crisis service. In urgent situations where safety is at risk, crisis services may involve emergency services.
 
-- If you or someone else is in immediate danger, call **911** (or go to the nearest emergency department).
-- If you can’t get through, try another local line, or dial **211** where available for service navigation.
+## Notes
+- If there is **immediate danger**, call **911**.
 
 ## Sources
+- COAST Hamilton (service description, numbers, hours, languages): https://211ontario.ca/service/83187835/coast-hamilton-coast-hamilton-services/
 
-- https://thelifelinecanada.ca/ontario-crisis-centres/
-
-*Last compiled/checked: December 17, 2025*
+*Last compiled/checked: December 23, 2025*

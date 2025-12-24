@@ -1,26 +1,35 @@
 ---
-title: "Interlake–Eastern Regional Health Authority: Mental Health Crisis Response"
+title: "Interlake–Eastern RHA: Mental Health Crisis Response"
+sidebar_label: "Interlake–Eastern Crisis Response"
 ---
 
-**Location:** Manitoba, Canada  
-**Resource type:** Crisis support (Lifeline directory listing)  
+## About
+Interlake–Eastern Regional Health Authority (IERHA) offers **24/7 phone support** for people in a mental health or psychosocial crisis, and can connect callers to additional crisis services (including Mobile Crisis Services and the Crisis Stabilization Unit).
+
+## Coverage
+Residents of the **Interlake–Eastern Regional Health Authority** area (Manitoba).
+
+## Who it’s for
+- People in the IERHA region who are experiencing a mental health or psychosocial crisis
+- People looking for crisis information or supports **for themselves or someone else**
 
 ## Contact
+- **24/7 Crisis Line:** **1-866-427-8628** (toll-free) or **204-482-5419**
+- **Mobile Crisis Services (Adult & Youth Outreach Team):** 1-877-499-8770 (toll-free) or 204-482-5376
+- **Crisis Stabilization Unit (Selkirk) referrals/info:** 1-888-482-5361 (toll-free) or 204-482-5361
+- **Website:** https://www.ierha.ca/
 
-- **Call:** 204-482-5419
-- **Toll-free:** 1-866-427-8628
+## Hours
+- **Crisis Line:** 24/7/365
 
-## About
-
-Crisis support service listed for Manitoba.
-
-## Important
-
-- If you or someone else is in immediate danger, call **911** (or go to the nearest emergency department).
-- If you can’t get through, try another local line, or dial **211** where available for service navigation.
+## What to expect when you call or request Mobile Crisis
+IERHA notes that crisis staff may ask about the situation, supports, and immediate safety, and can:
+- Provide phone support and problem-solving
+- Arrange Mobile Crisis outreach when appropriate
+- Encourage calling **911** (or help contact 911) if the situation is an emergency
 
 ## Sources
+- IERHA — Crisis Services: https://www.ierha.ca/programs-services/mental-health/crisis-services/
+- IERHA — Mental Health & Addictions (contact info): https://www.ierha.ca/programs-services/mental-health/
 
-- https://thelifelinecanada.ca/manitoba-crisis-centres/
-
-*Last compiled/checked: December 17, 2025*
+*Last compiled/checked: December 23, 2025*

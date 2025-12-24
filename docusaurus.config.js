@@ -10,7 +10,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'YMHC Crisis Resources Directory',
+  title: 'Crisis Resources Directory',
   tagline: 'Supporting students, families, educators, and professionals',
   favicon: 'img/favicon.ico',
 
@@ -22,7 +22,11 @@ const config = {
   projectName: 'crisis-support-directory',
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
 
   i18n: {
     defaultLocale: 'en',
@@ -50,10 +54,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'YMHC Crisis Directory',
+        title: 'Crisis Resources',
         logo: {
           alt: 'YMHC Logo',
-          src: 'img/logo.svg', // Ensure we have a logo or use text
+          src: 'img/logo.png', // Ensure we have a logo or use text
         },
         items: [
           {
@@ -62,22 +66,47 @@ const config = {
             position: 'left',
             label: 'Directory',
           },
+          {
+            label: 'Exit Site',
+            href: 'https://www.google.com/search?q=weather+tomorrow&ie=UTF-8',
+            position: 'right',
+            className: 'exit-site-button',
+            target: '_self',
+            rel: 'nofollow',
+          },
         ],
       },
       footer: {
         style: 'dark',
         links: [
           {
-            title: 'YMHC',
+            title: 'About',
             items: [
+              {
+                label: 'About This Website',
+                to: '/about',
+              },
+              {
+                label: 'Contribute',
+                to: '/about/contribute',
+              },
               {
                 label: 'YMHC Home',
                 href: 'https://ymhc.ngo',
               },
             ],
           },
+          {
+            title: 'Legal',
+            items: [
+              {
+                label: 'Terms of Service',
+                to: '/about/terms-of-service',
+              },
+            ],
+          },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Youth Mental Health Canada. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Youth Mental Health Canada.`,
       },
       prism: {
         theme: prismThemes.github,

@@ -1,26 +1,35 @@
 ---
-title: "CPS du Bas St-Laurent (Rivière-du-Loup)"
+title: "Centre prévention suicide du KRTB (Rivière-du-Loup)"
+sidebar_label: "CPS KRTB"
 ---
+## À propos
+Le **Centre prévention suicide du KRTB** offre des services de prévention, d’intervention et de postvention liés au suicide dans le **KRTB** (Kamouraska–Rivière-du-Loup–Témiscouata–Les Basques).
 
-**Location:** Quebec, Canada  
-**Resource type:** Regional crisis centre/line (Lifeline directory listing)  
+## Couverture
+- **KRTB (Bas-Saint-Laurent)**
+
+## Pour qui
+- Personnes qui pensent au suicide
+- Proches inquiets
+- Personnes endeuillées par suicide
+- Toute personne qui cherche de l’information ou du soutien
 
 ## Contact
+- **Ligne locale (bureau):** 418 862-9658
+- **En tout temps (24/7):** **1 866 APPELLE** (1 866 277-3553)
+- **Clavardage (Québec):** suicide.ca
 
-- **Call:** 418-862-9658
-- **Toll-free:** 1-866-APPELLE (1-866-277-3553)
+## Heures
+- **Bureau:** lundi au vendredi **9 h à 12 h** et **13 h à 17 h**
+- **24/7:** via **1 866 APPELLE**
 
-## About
+## Langues
+- Français
 
-Regional crisis support service listed for Quebec.
-
-## Important
-
-- If you or someone else is in immediate danger, call **911** (or go to the nearest emergency department).
-- If you can’t get through, try another local line, or dial **211** where available for service navigation.
+## À quoi s’attendre quand vous appelez
+Un intervenant peut vous écouter, évaluer la situation et vous aider à planifier des **mesures de sécurité**, à mobiliser vos ressources et à orienter vers des services locaux.
 
 ## Sources
+- Site officiel: https://cpsdukrtb.org/
 
-- https://thelifelinecanada.ca/quebec-crisis-centres/
-
-*Last compiled/checked: December 17, 2025*
+*Dernière vérification : 24 décembre 2025*

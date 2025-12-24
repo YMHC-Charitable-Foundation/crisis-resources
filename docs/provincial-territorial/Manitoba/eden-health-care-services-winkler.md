@@ -1,25 +1,31 @@
 ---
 title: "Eden Health Care Services (Winkler)"
+sidebar_label: "Eden Health Care Services"
 ---
 
-**Location:** Manitoba, Canada  
-**Resource type:** Crisis support (Lifeline directory listing)  
+## About
+Eden Health Care Services is a Manitoba-based nonprofit with programs that include community mental health supports in **Winkler** and other communities.
+
+## Coverage
+Primarily **Southern Manitoba**.
+
+## Who it’s for
+- People looking for mental health supports and navigation in Southern Manitoba
+- Anyone who needs **immediate crisis support** (via the 24/7 crisis line listed below)
 
 ## Contact
+- **24/7 crisis line (Southern Manitoba Crisis Line):** **1-888-617-7715**
+- **Eden head office (Winkler):** 204-325-5355 (toll-free **1-866-895-2919**)
+- **Website:** https://edenhealthcare.ca/
 
-- **Call:** 204-325-2483
+## Hours
+- **Crisis line:** 24/7/365
 
-## About
-
-Crisis support service listed for Manitoba.
-
-## Important
-
-- If you or someone else is in immediate danger, call **911** (or go to the nearest emergency department).
-- If you can’t get through, try another local line, or dial **211** where available for service navigation.
+## Notes
+- Eden’s “Find Help” page also lists the **Manitoba Suicide Prevention & Support Line: 1-877-435-7170** (24/7) for suicide-specific support.
 
 ## Sources
+- Eden Health Care Services — Contact: https://edenhealthcare.ca/contact/
+- Eden Health Care Services — Find Help: https://edenhealthcare.ca/find-help/
 
-- https://thelifelinecanada.ca/manitoba-crisis-centres/
-
-*Last compiled/checked: December 17, 2025*
+*Last compiled/checked: December 23, 2025*

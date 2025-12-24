@@ -1,26 +1,28 @@
 ---
 title: "Windsor & Essex Distress Line"
+sidebar_label: "Windsor-Essex Distress Line"
 ---
 
-**Location:** Ontario, Canada  
-**Resource type:** Crisis support (Lifeline directory listing)  
+## About
+The Distress Centre of Windsor-Essex County provides **free, anonymous, confidential** telephone-based support, including emotional support, crisis intervention, suicide prevention, and referrals to community resources.
+
+## Coverage
+- **Ontario:** Windsor-Essex County
+
+## Who it’s for
+- Anyone who needs to talk anonymously (support, distress, or crisis)
 
 ## Contact
-
 - **Call:** 519-256-5000
-- **Toll-free:** 1-866-767-6725
 
-## About
+## Hours
+- **Daily:** **12:00 p.m. (noon) – 12:00 a.m. (midnight)**
+- **365 days/year**
 
-Crisis support service listed for Ontario.
-
-## Important
-
-- If you or someone else is in immediate danger, call **911** (or go to the nearest emergency department).
-- If you can’t get through, try another local line, or dial **211** where available for service navigation.
+## What to expect when you call
+Trained responders provide non-judgmental listening, crisis support, and referrals by phone.
 
 ## Sources
+- Distress Centre of Windsor-Essex County brochure (phone, hours, service description): https://windsoressex.cmha.ca/wp-content/uploads/2016/11/Distress-Centre.pdf
 
-- https://thelifelinecanada.ca/ontario-crisis-centres/
-
-*Last compiled/checked: December 17, 2025*
+*Last compiled/checked: December 23, 2025*

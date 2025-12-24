@@ -1,26 +1,26 @@
 ---
 title: "Government of Ontario: Find Mental Health Support"
+sidebar_label: "Ontario: Find Mental Health Support"
 ---
 
-**Location:** Ontario, Canada  
-**Resource type:** Provincial information and service links  
+## About
+Ontario’s “Find mental health support” page is a starting point for finding **mental health and addictions supports** across Ontario, including crisis and emergency options and links to services.
+
+## Coverage
+- **Ontario-wide**
+
+## Who it’s for
+- People in Ontario looking for information on mental health supports
+- People looking for links and phone numbers for crisis, urgent, and non-urgent supports
 
 ## Contact
-
-- (See website/source links below.)
 - **Website:** https://www.ontario.ca/page/find-mental-health-support
 
-## About
-
-Provincial information about how to find mental health support and services in Ontario.
-
-## Important
-
-- If you or someone else is in immediate danger, call **911** (or go to the nearest emergency department).
-- If you can’t get through, try another local line, or dial **211** where available for service navigation.
+## Notes
+- If there is **immediate danger**, call **911**.
+- If you are thinking about suicide or worried about someone else, you can also contact **9-8-8** (Canada-wide).
 
 ## Sources
+- Government of Ontario page: https://www.ontario.ca/page/find-mental-health-support
 
-- https://www.ontario.ca/page/find-mental-health-support
-
-*Last compiled/checked: December 17, 2025*
+*Last compiled/checked: December 23, 2025*

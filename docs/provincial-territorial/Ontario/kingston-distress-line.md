@@ -1,26 +1,37 @@
 ---
-title: "Kingston Distress Line"
+title: "Telephone Aid Line Kingston (TALK)"
+sidebar_label: "Kingston Distress Line"
 ---
 
-**Location:** Ontario, Canada  
-**Resource type:** Crisis support (Lifeline directory listing)  
+## About
+Telephone Aid Line Kingston (TALK) is a **confidential, anonymous, non-judgmental**, volunteer-based listening service for people in the Kingston-area community.
+
+## Coverage
+- **Kingston and KFL&A area (and surrounding regions)**
+
+## Who it’s for
+- Anyone in the Kingston/KFL&A community who wants someone to talk to
+- People feeling distressed, overwhelmed, lonely, or needing emotional support
 
 ## Contact
+- **Call:** **613-544-1771**
 
-- **Call:** 613-544-1771
-- **Toll-free:** 1-800-465-4443
+## Hours
+- **Daily:** **6:00 pm – 2:00 am**
 
-## About
+## Languages
+- **English** (listed on the organization’s privacy/terms page)
 
-Crisis support service listed for Ontario.
+## What to expect when you call or text
+- You’ll speak with a trained volunteer who listens and provides support (TALK notes volunteers do not give advice).
+- If you call outside operating hours and you are in crisis, TALK directs callers to the **AMHS-KFLA 24-hour crisis line: 613-544-4229**.
 
-## Important
-
-- If you or someone else is in immediate danger, call **911** (or go to the nearest emergency department).
-- If you can’t get through, try another local line, or dial **211** where available for service navigation.
+## Privacy and safety approach
+TALK describes the service as confidential and anonymous, and also notes limits to anonymity and confidentiality (for example, where there is a duty to report concerns about a child in need of protection, or when there is risk of harm to self or others).
 
 ## Sources
+- Get Help (hours, listening line): https://www.telephoneaidlinekingston.com/get-help
+- About Us (service description; listening line): https://www.telephoneaidlinekingston.com/about-us
+- Privacy/Terms (English; confidentiality and limits): https://www.telephoneaidlinekingston.com/privacy
 
-- https://thelifelinecanada.ca/ontario-crisis-centres/
-
-*Last compiled/checked: December 17, 2025*
+*Last compiled/checked: December 23, 2025*

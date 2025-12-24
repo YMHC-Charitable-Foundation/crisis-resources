@@ -1,27 +1,33 @@
 ---
-title: "Capella Centre (St. Paul & District Crisis Centre)"
+title: "Capella Centre (St. Paul & Area)"
+sidebar_label: "Capella Centre (St. Paul)"
 ---
 
-**Location:** Alberta, Canada  
-**Resource type:** Crisis supports / shelter services  
+## About
+Capella Centre is a family violence prevention organization in St. Paul, Alberta that operates the **Columbus House of Hope** emergency shelter and provides crisis supports and related programs.
+
+## Coverage
+Primarily **St. Paul and surrounding area** (services are based in St. Paul, Alberta).
+
+## Who it’s for
+- Women, children, and families affected by **domestic abuse / family violence** or other urgent crisis situations
 
 ## Contact
-
-- **Call (toll-free):** 1-800-263-3045
-- **Call (local):** 780-645-5195
+- **24-hour support line (toll-free):** 1-800-263-3045
+- **24-hour support line (local):** 780-645-5195
+- **Text:** 780-227-6272
+- **Business line (non-urgent inquiries):** 780-645-5132
 - **Website:** https://capellacentre.ca/
 
-## About
+## Hours
+- **24/7/365** (24-hour support line; shelter is open 24 hours a day, 365 days a year)
 
-Crisis supports and shelter/outreach services (see site).
-
-## Important
-
-- If you or someone else is in immediate danger, call **911** (or go to the nearest emergency department).
-- If you can’t get through, try another local line, or dial **211** where available for service navigation.
+## Notes
+- Capella Centre’s website includes a quick-exit (“Leave this website now”) feature for safety.
 
 ## Sources
-
 - https://capellacentre.ca/
+- https://capellacentre.ca/contact-us/
+- https://capellacentre.ca/keeping-your-visit-secret/
 
-*Last compiled/checked: December 17, 2025*
+*Last compiled/checked: December 23, 2025*

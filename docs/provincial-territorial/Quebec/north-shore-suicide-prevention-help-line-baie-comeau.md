@@ -1,26 +1,30 @@
 ---
-title: "North Shore Suicide Prevention / Help Line (Baie-Comeau)"
+title: "Centre de prévention du suicide Côte-Nord (CPS Côte-Nord)"
+sidebar_label: "CPS Côte-Nord"
 ---
 
-**Location:** Quebec, Canada  
-**Resource type:** Regional crisis centre/line (Lifeline directory listing)  
+## À propos
+Le **Centre de prévention du suicide Côte‑Nord** offre du soutien en prévention du suicide, avec des intervenant·e·s disponibles **24/7**.
+
+## Couverture
+**Côte‑Nord (Québec)**.
+
+## Pour qui
+Toute personne ayant besoin d’aide en lien avec le suicide (pour soi, pour un proche, ou dans un contexte professionnel).
 
 ## Contact
+- **Intervention (24/7) :** 1-866-APPELLE (1-866-277-3553)
+- **Administration :** 418-295-2101
+- **Courriel :** administration@preventionsuicide09.ca
 
-- **Call:** 418-296-2202
-- **Toll-free:** 1-866-APPELLE (1-866-277-3553)
+## Heures
+- **Intervention : 24/7**
 
-## About
-
-Regional crisis support service listed for Quebec.
-
-## Important
-
-- If you or someone else is in immediate danger, call **911** (or go to the nearest emergency department).
-- If you can’t get through, try another local line, or dial **211** where available for service navigation.
+## Notes
+- Aucune intervention n’est faite par courriel; en cas de besoin, il faut appeler la ligne d’intervention.
+- Adresse (siège) : 750, rue du Puyjalon, Baie‑Comeau (Qc) G5C 1M8.
 
 ## Sources
+- Site officiel (aide 24/7, contacts) : https://www.preventionsuicidecotenord.ca/
 
-- https://thelifelinecanada.ca/quebec-crisis-centres/
-
-*Last compiled/checked: December 17, 2025*
+*Last compiled/checked: 23 décembre 2025*

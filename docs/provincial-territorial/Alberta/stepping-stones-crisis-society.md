@@ -1,27 +1,36 @@
 ---
-title: "Stepping Stones Crisis Society"
+title: "Stepping Stones Crisis Society (Cold Lake, Alberta)"
+sidebar_label: "Stepping Stones (Cold Lake)"
 ---
 
-**Location:** Alberta, Canada  
-**Resource type:** Crisis line & shelter supports (Cold Lake region)  
+## About
+**Stepping Stones Crisis Society** provides emergency shelter and support services for women and children experiencing domestic abuse and family crisis, including a **24/7 confidential helpline**.
+
+## Coverage
+- Based in **Cold Lake, Alberta**
+- Serves the surrounding **Lakeland region** (including nearby communities such as Bonnyville)
+
+## Who it’s for
+- **Women**, with or without children, who are fleeing domestic violence or are in a life crisis
+- People seeking information, safety planning, and connection to supports
 
 ## Contact
-
-- **Crisis line (toll-free):** 1-866-594-0533
-- **Crisis line (local):** 780-594-3353
+- **24/7 Crisis Helpline:** 780-594-3353
+- **Administrative office:** 780-594-0430
 - **Website:** https://steppingstonessociety.ca/
 
-## About
+## Hours
+- **Helpline:** **24/7/365**
 
-Crisis line and supports (including shelter services) for those impacted by family violence (see site).
+## Languages
+- Not listed online (ask when you call).
 
-## Important
-
-- If you or someone else is in immediate danger, call **911** (or go to the nearest emergency department).
-- If you can’t get through, try another local line, or dial **211** where available for service navigation.
+## Privacy and safety approach
+- Services are described as **confidential**.
+- Their website includes a “hide your visit”/quick-exit feature for safer browsing.
 
 ## Sources
+- Stepping Stones Crisis Society – Contact (helpline + office numbers): https://steppingstonessociety.ca/contact-us/
+- Stepping Stones Crisis Society – FAQs (helpline + confidentiality notes): https://steppingstonessociety.ca/faqs/
 
-- https://steppingstonessociety.ca/
-
-*Last compiled/checked: December 17, 2025*
+*Last compiled/checked: December 23, 2025*

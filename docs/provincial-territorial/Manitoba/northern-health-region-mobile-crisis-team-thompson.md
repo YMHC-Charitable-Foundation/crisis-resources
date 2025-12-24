@@ -1,26 +1,31 @@
 ---
-title: "Northern Health Region Mobile Crisis Team (Thompson)"
+title: "Hope North Youth Mobile Crisis Team (Northern Health Region)"
+sidebar_label: "Hope North Youth Mobile Crisis"
 ---
 
-**Location:** Manitoba, Canada  
-**Resource type:** Crisis support (Lifeline directory listing)  
+## About
+Hope North’s Mobile Crisis Team provides crisis assessment, consultation, and support for **youth (17 and under)** experiencing a mental health, suicide, or substance misuse crisis. Services may be provided by phone and/or telehealth.
+
+## Coverage
+Northern Health Region communities (Northern Manitoba).
+
+## Who it’s for
+- Youth **17 and under** living in Northern Manitoba
+- Caregivers and agencies concerned about a youth in crisis
 
 ## Contact
+- **Call:** 204-778-1472  
+- **Toll-free:** 1-866-242-1571
 
-- **Call:** 204-677-5111
-- **Toll-free:** 1-888-322-3019
+## Hours
+- **12:00 noon – 12:00 midnight (daily)**  
+- **8:30 a.m. – 4:30 p.m. (Monday–Friday)** for triage and follow-up services
 
-## About
-
-Crisis support service listed for Manitoba.
-
-## Important
-
-- If you or someone else is in immediate danger, call **911** (or go to the nearest emergency department).
-- If you can’t get through, try another local line, or dial **211** where available for service navigation.
+## Notes
+- As of **September 2025**, the Hope North facility in Thompson was reported as temporarily closed for repairs, but **Mobile Crisis Services remain available by phone**.
 
 ## Sources
+- Hope North Recovery Centre for Youth — services notice (includes hours and phone): https://northernhealthregion.com/wp-content/uploads/2020/05/Hope-North-Notice-2020-2.pdf
+- Northern Health Region news — Hope North temporary closure (phone remains available): https://northernhealthregion.com/2025/09/22/hope-north-thompson-temp-closure/
 
-- https://thelifelinecanada.ca/manitoba-crisis-centres/
-
-*Last compiled/checked: December 17, 2025*
+*Last compiled/checked: December 23, 2025*

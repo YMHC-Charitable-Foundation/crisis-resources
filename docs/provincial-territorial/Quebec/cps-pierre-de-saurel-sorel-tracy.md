@@ -1,25 +1,27 @@
 ---
-title: "CPS Pierre-de-Saurel (Sorel-Tracy)"
+title: "La Traversée – Centre de crise et de prévention du suicide (Pierre‑De‑Saurel)"
+sidebar_label: "La Traversée"
 ---
+## À propos
+**La Traversée** est un organisme qui offre des services de prévention, d’intervention et de postvention liés au suicide, ainsi que des services de crise (incluant hébergement) pour la MRC de Pierre‑De‑Saurel.
 
-**Location:** Quebec, Canada  
-**Resource type:** Regional crisis centre/line (Lifeline directory listing)  
+## Couverture
+- **MRC de Pierre‑De‑Saurel** (Sorel‑Tracy et environs)
+
+## Pour qui
+- Personnes qui pensent au suicide
+- Proches inquiets
+- Personnes endeuillées
+- Personnes en crise psychosociale (selon services)
 
 ## Contact
+- **Ligne d’intervention (24/7):** 450 746-0303
+- **Clavardage (Québec):** suicide.ca
 
-- **Call:** 450-746-0303
-
-## About
-
-Regional crisis support service listed for Quebec.
-
-## Important
-
-- If you or someone else is in immediate danger, call **911** (or go to the nearest emergency department).
-- If you can’t get through, try another local line, or dial **211** where available for service navigation.
+## Langues
+- Français (services parfois offerts aussi en anglais selon l’équipe)
 
 ## Sources
+- Page contact (site officiel): https://cpslatraversee.ca/en/contact/
 
-- https://thelifelinecanada.ca/quebec-crisis-centres/
-
-*Last compiled/checked: December 17, 2025*
+*Dernière vérification : 24 décembre 2025*

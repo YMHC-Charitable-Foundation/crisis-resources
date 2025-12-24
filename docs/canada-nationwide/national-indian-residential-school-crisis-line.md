@@ -1,19 +1,25 @@
 ---
 title: "National Indian Residential School Crisis Line (Canada)"
+sidebar_label: "Indian Residential School Crisis Line"
 ---
-
 ## About
-The National Indian Residential School Crisis Line provides 24-hour crisis support to **former Indian Residential School students and their families**.
+The National Indian Residential School Crisis Line provides **24-hour** crisis support for **former Indian Residential School students (Survivors) and their family members**.
+
+## Coverage
+- **Canada-wide**
 
 ## Who it’s for
-- Former Indian Residential School students (Survivors) and their families
+- Survivors (former students) of Indian Residential Schools
+- Family members of Survivors seeking immediate emotional support and referrals
 
 ## Contact
-- **Call (toll-free, 24/7):** 1-866-925-4419
+- **Call (toll-free):** **1-866-925-4419**
 
 ## Hours
 - **24/7**
 
+## What to expect when you call
+Indigenous Services Canada describes the line as providing immediate emotional assistance and referrals/support connections.
+
 ## Sources
-- Indigenous Services Canada (Indian Residential Schools Resolution Health Support Program page): https://www.sac-isc.gc.ca/eng/1581971225188/1581971250953
-- Government of Canada mental health support page (also lists the crisis line): https://www.canada.ca/en/public-health/services/mental-health-services/mental-health-get-help.html
+- Indigenous Services Canada — Indian Residential Schools Resolution Health Support Program (crisis line listing): https://www.sac-isc.gc.ca/eng/1581971225188/1581971250953

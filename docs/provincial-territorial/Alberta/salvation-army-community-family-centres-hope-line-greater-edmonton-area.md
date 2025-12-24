@@ -1,31 +1,33 @@
 ---
-title: "Salvation Army Community & Family Centres Hope Line (Greater Edmonton Area)"
+title: "The Salvation Army Edmonton Community Resource Centre"
+sidebar_label: "Salvation Army Edmonton CRC"
 ---
 
-**Location:** Alberta, Canada  
-**Resource type:** Telephone support line (directory listing)  
-**Hours:** Mon–Fri 9:00 a.m.–11:30 p.m. (as listed in Lifeline directory)  
+## About
+The **Edmonton Community Resource Centre (CRC)** is a hub that supports Salvation Army ministry units and community services in Edmonton and the surrounding area. It can help connect people to Salvation Army programs and local supports.
+
+## Coverage
+- **Edmonton and surrounding area**
+
+## Who it’s for
+- People in the Edmonton area looking for Salvation Army community supports (programs and services vary by location)
 
 ## Contact
+- **Phone:** 780-424-9222
+- **Address:** 12544 129 Street NW, Edmonton, AB
+- **Website:** https://tsaedmontoncrc.ca/
 
-- **Call:** 780-424-9223
-- **Website:** https://salvationarmy.ca/
+## Hours
+- Not listed online (call for current hours).
 
-## About
-
-Telephone support line listed for Greater Edmonton Area. A dedicated program page could not be located in Salvation Army primary web pages during this compilation.
+## Languages
+- Not listed online (ask when you call).
 
 ## Notes
-
-- If this number is out of service or not answering, consider dialing 211 or another crisis line listed for Alberta.
-
-## Important
-
-- If you or someone else is in immediate danger, call **911** (or go to the nearest emergency department).
-- If you can’t get through, try another local line, or dial **211** where available for service navigation.
+- This is **not advertised as a 24/7 crisis line**. For emergencies, call **911**.
 
 ## Sources
+- Edmonton Community Resource Centre (The Salvation Army): https://tsaedmontoncrc.ca/
+- Edmonton CRC – Programs & Services / contact details: https://tsaedmontoncrc.ca/programs-services/
 
-- https://thelifelinecanada.ca/alberta-crisis-centres/
-
-*Last compiled/checked: December 17, 2025*
+*Last compiled/checked: December 23, 2025*

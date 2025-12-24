@@ -1,25 +1,26 @@
 ---
-title: "CPS du Nord-du-Québec (Senneterre)"
+title: "Centre de prévention du suicide de Senneterre"
+sidebar_label: "CPS Senneterre"
 ---
+## À propos
+Le **Centre de prévention du suicide de Senneterre** est un organisme communautaire qui offre de l’accueil, de l’écoute et du soutien en lien avec la crise suicidaire.
 
-**Location:** Quebec, Canada  
-**Resource type:** Regional crisis centre/line (Lifeline directory listing)  
+## Couverture
+- **Senneterre** (Abitibi‑Témiscamingue / secteur)
+
+## Pour qui
+- Personnes qui pensent au suicide
+- Proches inquiets
+- Personnes endeuillées
 
 ## Contact
+- **Ligne locale:** 819 737-2785
+- **En tout temps (24/7):** **1 866 APPELLE** (1 866 277-3553)
 
-- **Call:** 819-737-2555
-
-## About
-
-Regional crisis support service listed for Quebec.
-
-## Important
-
-- If you or someone else is in immediate danger, call **911** (or go to the nearest emergency department).
-- If you can’t get through, try another local line, or dial **211** where available for service navigation.
+## Langues
+- Français
 
 ## Sources
+- Services (coordonnées): https://cps-senneterre.org/services/
 
-- https://thelifelinecanada.ca/quebec-crisis-centres/
-
-*Last compiled/checked: December 17, 2025*
+*Dernière vérification : 24 décembre 2025*

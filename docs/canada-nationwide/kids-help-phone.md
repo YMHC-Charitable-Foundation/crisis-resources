@@ -1,30 +1,41 @@
 ---
 title: "Kids Help Phone (Canada)"
+sidebar_label: "Kids Help Phone"
 ---
-
 ## About
-Kids Help Phone provides confidential support to children, teens, and young adults across Canada through phone and texting services, with additional online supports.
+Kids Help Phone provides free, confidential support for **kids, teens, and young adults** across Canada through phone, text, and online chat.
+
+## Coverage
+- **Canada-wide**
 
 ## Who it’s for
-- **Canadians aged 5 to 29** (as described by the Government of Canada)
+- Kids, teens, and young adults in Canada looking for support with mental health and well-being
+- People who prefer phone, text, or online chat support in English or French (and phone interpretation in many languages)
 
 ## Contact
-- **Call (toll-free, 24/7):** 1-800-668-6868  
+- **Call (24/7, toll-free):** **1-800-668-6868**
 - **Text (24/7):** Text **CONNECT** to **686868**
-- **Online message/text from a web browser:** available via Kids Help Phone texting service page
+- **Live Chat counselling (set hours):** https://kidshelpphone.ca/live-chat-counselling/
+
+## Hours
+- **Phone (call):** 24/7
+- **Texting:** 24/7
+- **Live Chat counselling:** **Daily, 7 p.m. – midnight (ET)** (accepting new chats until **11:15 p.m. ET**)
 
 ## Languages
-- Call support is available in **English and French**.
-- Phone support can also be offered in many other languages using trained interpreters (see Kids Help Phone call page).
+- **English and French** (one-to-one services)
+- **Phone support in 100+ languages** using trained interpreters (examples listed on the call page)
 
-## Cost
-- Free
+## What to expect when you call, text, or chat
+- **Call:** You’ll reach a **professional counsellor**.
+- **Text:** You’ll connect with a **trained volunteer crisis responder**.
+- **Live Chat counselling:** You’ll chat in real time with a **professional counsellor**; the Live Chat FAQ notes it is anonymous and confidential.
 
-## Notes
-- Kids Help Phone’s texting service is designed for crisis support by text or web message (see “Crisis Text Line (Canada)” resource file for a dedicated summary of the texting service).
+## Privacy and safety approach
+Kids Help Phone describes its services as **confidential**; the Live Chat counselling page notes it is **anonymous and confidential** and links to privacy details (including duty to report).
 
 ## Sources
-- Kids Help Phone website: https://kidshelpphone.ca/
-- Call support details: https://kidshelpphone.ca/call
-- Texting service details: https://kidshelpphone.ca/need-help-now-text-us
-- Government of Canada mental health support page (includes Kids Help Phone overview and age range): https://www.canada.ca/en/public-health/services/mental-health-services/mental-health-get-help.html
+- Kids Help Phone (home): https://kidshelpphone.ca/
+- Our e-mental health services (overview, languages): https://kidshelpphone.ca/our-e-mental-health-services/
+- Call us (24/7, languages): https://kidshelpphone.ca/call/
+- Live Chat counselling (hours, FAQ): https://kidshelpphone.ca/live-chat-counselling/

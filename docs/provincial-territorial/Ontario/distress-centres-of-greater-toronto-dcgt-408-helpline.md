@@ -1,28 +1,45 @@
 ---
-title: "Distress Centres of Greater Toronto (DCGT) – 408-Helpline"
+title: "Distress Centres of Greater Toronto (DCGT) — 408 Helpline"
+sidebar_label: "DCGT — 408 Helpline"
 ---
 
-**Location:** Ontario, Canada  
-**Resource type:** 24/7 distress line (GTA)  
-**Languages:** English + multilingual options (see DCGT site)  
-**Hours:** 24/7  
+## About
+Distress Centres of Greater Toronto (DCGT) offers the **408 Helplines** for emotional support, crisis de-escalation, and suicide prevention support.
+
+## Coverage
+Primarily **Greater Toronto Area (GTA)** and **Peel Region (Ontario)**.
+
+## Who it’s for
+- People experiencing emotional distress, abuse, social marginalization, or thoughts of suicide
+- Anyone who would like support in **English** or (during set hours) other languages
 
 ## Contact
+- **GTA (English):** 416-408-4357
+- **Peel (English):** 905-459-7777
 
-- **Call:** 416-408-4357
-- **Website:** https://www.dcogt.com/
+### Multilingual distress lines
+- **Caledon:** 877-298-5444
+- **Brampton & Mississauga:** 905-459-7777
+- **TTY:** 905-278-4890
 
-## About
+- **Website:** https://www.dcogt.com/408-helpline/
 
-Emotional support, crisis intervention, suicide prevention, and related programs (see site).
+## Hours
+- **English line:** 24/7
+- **Cantonese, Mandarin, Portuguese, Spanish, Hindi, Punjabi, Urdu:** Monday–Friday, **10am–10pm**
 
-## Important
+## Languages
+- English (24/7)
+- Cantonese, Mandarin, Portuguese, Spanish, Hindi, Punjabi, Urdu (Mon–Fri, 10am–10pm)
 
-- If you or someone else is in immediate danger, call **911** (or go to the nearest emergency department).
-- If you can’t get through, try another local line, or dial **211** where available for service navigation.
+## What to expect when you call or text
+A trained volunteer responder will listen without judgment, help you feel supported, and work with you on next steps and safety when needed.
+
+## Notes
+If you are in immediate danger or need emergency medical help, call **911**.
 
 ## Sources
+- 408 Helplines (GTA and Peel numbers, languages): https://www.dcogt.com/408-helpline/
+- Multilingual Distress Lines (language hours, Caledon/TTY numbers): https://www.dcogt.com/multilingual-distress-lines/
 
-- https://www.dcogt.com/
-
-*Last compiled/checked: December 17, 2025*
+*Last compiled/checked: December 23, 2025*

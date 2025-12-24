@@ -1,6 +1,7 @@
 ---
-title: "Provincial & Territorial Resources"
-sidebar_position: 1
+title: "Provincial & Territorial Mental Health Crisis Resources"
+sidebar_label: "Provincial & Territorial"
+sidebar_position: 7
 ---
 
 # Provincial & Territorial Resources

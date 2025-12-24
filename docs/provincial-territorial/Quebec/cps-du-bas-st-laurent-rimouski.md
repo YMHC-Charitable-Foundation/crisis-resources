@@ -1,26 +1,31 @@
 ---
-title: "CPS du Bas St-Laurent (Rimouski)"
+title: "Centre de prévention du suicide de l’Est (Rimouski)"
+sidebar_label: "CPS de l’Est"
 ---
+## À propos
+Le **Centre de prévention du suicide de l’Est** offre des services de prévention, d’intervention et de postvention liés au suicide.
 
-**Location:** Quebec, Canada  
-**Resource type:** Regional crisis centre/line (Lifeline directory listing)  
+## Couverture
+- **Bas‑Saint‑Laurent** (et services selon territoire)
+
+## Pour qui
+- Personnes qui pensent au suicide
+- Proches inquiets
+- Personnes endeuillées
 
 ## Contact
+- **Ligne locale:** 418 724-2463
+- **En tout temps (24/7):** **1 866 APPELLE** (1 866 277-3553)
+- **Clavardage (Québec):** suicide.ca
 
-- **Call:** 418-724-2463
-- **Toll-free:** 1-866-APPELLE (1-866-277-3553)
+## Heures
+- **24/7:** via **1 866 APPELLE** (et ligne locale selon disponibilité)
 
-## About
-
-Regional crisis support service listed for Quebec.
-
-## Important
-
-- If you or someone else is in immediate danger, call **911** (or go to the nearest emergency department).
-- If you can’t get through, try another local line, or dial **211** where available for service navigation.
+## Langues
+- Français
 
 ## Sources
+- Site officiel: https://www.cpse.ca/
+- Clavardage / aide 24/7: https://suicide.ca/fr
 
-- https://thelifelinecanada.ca/quebec-crisis-centres/
-
-*Last compiled/checked: December 17, 2025*
+*Dernière vérification : 24 décembre 2025*

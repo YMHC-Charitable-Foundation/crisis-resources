@@ -1,26 +1,46 @@
 ---
-title: "Tel-jeunes (youth) and Parents"
+title: "Tel-jeunes (Jeunes et Parents)"
+sidebar_label: "Tel-jeunes"
 ---
 
-**Location:** Quebec, Canada  
-**Resource type:** Counselling by phone/text/chat  
+## À propos
+**Tel-jeunes** offre du soutien **gratuit, confidentiel et sans jugement** aux adolescent·e·s du Québec, ainsi qu’aux **parents d’ados**, par téléphone et en ligne.
+
+## Couverture
+**Québec**.
+
+## Pour qui
+- **Jeunes/adolescent·e·s** (Forum Tj : **12 à 20 ans**, Québec)
+- **Parents d’adolescent·e·s** (Tel-jeunes Parents)
 
 ## Contact
+### Jeunes (parler avec un·e intervenant·e)
+- **Appel :** 1-800-263-2266
+- **Texto :** 514-600-1002
+- **Clavardage :** via teljeunes.com (section *Chat*)
 
-- (See website/source links below.)
-- **Website:** https://www.teljeunes.com/en/
+### Parents d’ados (parler avec un·e intervenant·e)
+- **Appel :** 1-800-361-5085
+- **Clavardage :** via teljeunes.com (section *Parents*)
 
-## About
+## Heures
+### Jeunes (intervenant·e)
+- **Appel :** 6 h à 2 h
+- **Texto / Chat :** 8 h à 22 h 30
 
-Counselling and support services for youth and parents (phone, text and chat; see Tel-jeunes for hours and contact details).
+### Parents (intervenant·e)
+- **Appel :** 6 h à minuit
+- **Clavardage :** 6 h à 22 h 30
 
-## Important
+## Langues
+- **Français et anglais**
 
-- If you or someone else is in immediate danger, call **911** (or go to the nearest emergency department).
-- If you can’t get through, try another local line, or dial **211** where available for service navigation.
+## À quoi s’attendre
+- On peut te demander quelques informations d’identification **à des fins statistiques** (p. ex. âge, genre, ville).
+- Les services sont **confidentiels**, mais si l’équipe a des motifs raisonnables de croire qu’une personne est en danger, elle peut **informer les services d’urgence**.
 
 ## Sources
+- Tel-jeunes — page « Nous contacter » (heures, options, confidentialité, langues) : https://www.teljeunes.com/fr/a-propos/joindre-l-administration
+- Règles du Forum Tj (âge 12–20, Québec) : https://www.teljeunes.com/forumtj/regles-espacetj
 
-- https://www.teljeunes.com/en/
-
-*Last compiled/checked: December 17, 2025*
+*Last compiled/checked: 23 décembre 2025*

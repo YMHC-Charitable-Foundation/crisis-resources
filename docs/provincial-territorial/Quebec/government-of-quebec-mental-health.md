@@ -1,26 +1,25 @@
 ---
-title: "Government of Quebec: Mental Health"
+title: "Gouvernement du Québec : Santé mentale (information et orientation)"
 ---
 
-**Location:** Quebec, Canada  
-**Resource type:** Provincial information and guidance  
+## À propos
+Le portail **Québec.ca** sur la **santé mentale** regroupe de l’information et des parcours pour trouver de l’aide et des services au Québec. 
+
+## Couverture
+- **Québec**
+
+## Pour qui
+- Toute personne au Québec qui cherche de l’information sur la santé mentale ou comment accéder à des services. 
 
 ## Contact
-
-- (See website/source links below.)
-- **Website:** https://www.quebec.ca/en/health/mental-health
-
-## About
-
-Provincial information about mental health, how to find support, and services in Quebec.
-
-## Important
-
-- If you or someone else is in immediate danger, call **911** (or go to the nearest emergency department).
-- If you can’t get through, try another local line, or dial **211** where available for service navigation.
+- **Site Web (portail Santé mentale) :** https://www.quebec.ca/sante/sante-mentale   
+- **Ressources d’aide (par besoin) :** https://www.quebec.ca/sante/sante-mentale/trouver-aide-et-soutien-en-sante-mentale/trouver-ressource-aide-et-soutien-en-sante-mentale/ressources-aide-et-soutien-sante-mentale-par-besoin   
+- **Étapes pour obtenir des soins/services :** https://www.quebec.ca/sante/sante-mentale/trouver-aide-et-soutien-en-sante-mentale/etapes-pour-obtenir-soins-et-services-en-sante-mentale   
 
 ## Sources
+- Québec.ca — Santé mentale : https://www.quebec.ca/sante/sante-mentale 
+- Québec.ca — Ressources d’aide et de soutien (par besoin) : https://www.quebec.ca/sante/sante-mentale/trouver-aide-et-soutien-en-sante-mentale/trouver-ressource-aide-et-soutien-en-sante-mentale/ressources-aide-et-soutien-sante-mentale-par-besoin 
+- Québec.ca — Étapes pour obtenir des soins et services : https://www.quebec.ca/sante/sante-mentale/trouver-aide-et-soutien-en-sante-mentale/etapes-pour-obtenir-soins-et-services-en-sante-mentale 
+- Gouvernement du Canada — Soutien en santé mentale : https://www.canada.ca/en/public-health/services/mental-health-services/mental-health-get-help.html 
 
-- https://www.quebec.ca/en/health/mental-health
-
-*Last compiled/checked: December 17, 2025*
+*Last compiled/checked: December 23, 2025*

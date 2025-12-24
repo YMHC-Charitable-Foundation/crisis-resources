@@ -1,26 +1,23 @@
 ---
-title: "Distress Centre Cambridge"
+title: "Telecare Cambridge: Distress Line"
+sidebar_label: "Telecare Cambridge"
 ---
 
-**Location:** Ontario, Canada  
-**Resource type:** Crisis support (Lifeline directory listing)  
+## About
+Telecare Cambridge is listed as a distress line serving **Cambridge, Ontario**.
+
+## Coverage
+**Cambridge, Ontario** (local distress line).
 
 ## Contact
+- **Call (Distress Line):** 519-658-5455
+- **Business office:** 519-658-2794
 
-- **Call:** 519-658-5455
-- **Toll-free:** 1-800-265-6060
-
-## About
-
-Crisis support service listed for Ontario.
-
-## Important
-
-- If you or someone else is in immediate danger, call **911** (or go to the nearest emergency department).
-- If you can’t get through, try another local line, or dial **211** where available for service navigation.
+## Notes
+- Telecare Cambridge’s former website domain appears inactive; use the phone number above to connect.
 
 ## Sources
+- Lifeline International (Canada member list — Telecare Cambridge): https://lifeline-international.com/member/canada/
+- Telecare Canada list of centres (includes Telecare Cambridge contact details): https://www.telecarecanada.org/members.html
 
-- https://thelifelinecanada.ca/ontario-crisis-centres/
-
-*Last compiled/checked: December 17, 2025*
+*Last compiled/checked: December 23, 2025*

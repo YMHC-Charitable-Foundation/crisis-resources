@@ -1,26 +1,23 @@
 ---
-title: "Government of Manitoba: Mental Health and Addictions"
+title: "Government of Manitoba: Mental Health & Addictions Help"
+sidebar_label: "MB Mental Health & Addictions Help"
 ---
 
-**Location:** Manitoba, Canada  
-**Resource type:** Provincial information (mental health and addictions)  
+## About
+The Government of Manitoba’s Mental Health & Addictions website lists provincial **crisis lines** and ways to find mental health and addictions services.
+
+## Coverage
+**Manitoba-wide.**
 
 ## Contact
-
-- (See website/source links below.)
+- **Find services:** Call **2-1-1** (Manitoba 211)
+- **Suicide crisis (Canada):** Call or text **9-8-8** (24/7)
 - **Website:** https://www.gov.mb.ca/mhcw/
 
-## About
-
-Provincial information about mental health and addictions supports and services in Manitoba.
-
-## Important
-
-- If you or someone else is in immediate danger, call **911** (or go to the nearest emergency department).
-- If you can’t get through, try another local line, or dial **211** where available for service navigation.
+## Notes
+This page also lists other crisis lines (for example, Klinic Crisis Line and Kids Help Phone). Check the website for the most up-to-date list.
 
 ## Sources
+- Government of Manitoba — Mental Health and Addictions (Crisis Lines): https://www.gov.mb.ca/mhcw/index.html
 
-- https://www.gov.mb.ca/mhcw/
-
-*Last compiled/checked: December 17, 2025*
+*Last compiled/checked: December 23, 2025*

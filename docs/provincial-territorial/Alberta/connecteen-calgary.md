@@ -1,27 +1,35 @@
 ---
 title: "ConnecTeen (Calgary)"
+sidebar_label: "ConnecTeen (Calgary)"
 ---
 
-**Location:** Alberta, Canada  
-**Resource type:** Youth peer support line (call/text/chat)  
+## About
+ConnecTeen is a **free, confidential** youth helpline in Calgary where young people can call, text, or chat with trained volunteers for peer support.
+
+## Coverage
+Primarily **Calgary** (outside peer-support hours, contacts may be supported by adult volunteers).
+
+## Who it’s for
+- Youth in Calgary who want someone to talk to about any issue (big or small)
 
 ## Contact
-
-- **Call:** 403-264-8336
+- **Call:** 403-264-8336 (403-264-TEEN)
 - **Text:** 587-333-2724
-- **Website:** https://calgaryconnecteen.com/
+- **Online chat:** Use the message icon on the website
+- **Website:** https://calgaryconnecteen.com/get-help-now/
 
-## About
+## Hours
+- **Phone support:** 24/7/365  
+- **Peer support availability:**  
+  - **Weekdays:** 3:00 p.m.–10:00 p.m.  
+  - **Weekends:** 12:00 p.m.–10:00 p.m.  
+  Adult volunteers are available outside peer-support hours.
 
-Confidential peer support for youth by phone, text, and online chat (see site).
-
-## Important
-
-- If you or someone else is in immediate danger, call **911** (or go to the nearest emergency department).
-- If you can’t get through, try another local line, or dial **211** where available for service navigation.
+## Notes
+- As of **December 23, 2025**, ConnecTeen’s website reports **text may be temporarily unavailable**; check the “Get Help Now” page for current status.
 
 ## Sources
+- https://calgaryconnecteen.com/get-help-now/
+- https://calgaryconnecteen.com/online-chat/
 
-- https://calgaryconnecteen.com/need-help/
-
-*Last compiled/checked: December 17, 2025*
+*Last compiled/checked: December 23, 2025*

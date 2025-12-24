@@ -1,26 +1,38 @@
 ---
-title: "BC 211 (Help Lines / SuccessBC)"
+title: "211 British Columbia (BC 211)"
+sidebar_label: "BC 211"
 ---
 
-**Location:** British Columbia, Canada  
-**Resource type:** Information & referral (211)  
+## About
+**BC 211** is a **free and confidential** information and referral service that helps people find community, social, and government supports in British Columbia (non-emergency).
+
+## Coverage
+- **British Columbia**
+
+## Who it’s for
+- Anyone in **BC** looking for help finding services (e.g., food, housing, income supports, legal supports, newcomer supports, counselling, etc.)
 
 ## Contact
-
-- **Call:** 211
+- **Call:** **2-1-1**
+- **Text (SMS):** **2-1-1**
+- **Web chat:** Available via the website
+- **Toll-free (phone support):** **1-888-484-3211**
+- **Email:** 211-help@uwbc.ca
 - **Website:** https://bc.211.ca/
 
-## About
+## Hours
+- **Resource Navigator hours:** **9:00am–9:00pm (Mon–Fri, excluding holidays)**
 
-Connects people to community and government supports (including crisis resources).
+## Languages
+- Phone interpretation is available in **240+ languages and dialects**.
 
-## Important
-
-- If you or someone else is in immediate danger, call **911** (or go to the nearest emergency department).
-- If you can’t get through, try another local line, or dial **211** where available for service navigation.
+## What to expect when you call or text
+- A trained Resource Navigator will listen to what you need and suggest/refers you to relevant services.
+- You may be placed in a queue for text or web chat support.
 
 ## Sources
+- BC 211 — Contact Us (hours, call/text, interpretation): https://bc.211.ca/contact-us/
+- BC 211 — Getting Started (phone/text/chat details; toll-free support): https://bc.211.ca/getting-started-with-211/
+- BC 211 — Service listing (hours, toll-free, email): https://bc.211.ca/result/211-british-columbia-9491366/
 
-- https://bc.211.ca/
-
-*Last compiled/checked: December 17, 2025*
+*Last compiled/checked: December 23, 2025*

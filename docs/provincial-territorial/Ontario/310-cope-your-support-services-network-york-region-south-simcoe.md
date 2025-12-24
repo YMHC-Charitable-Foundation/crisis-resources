@@ -1,27 +1,33 @@
 ---
-title: "310-COPE (Your Support Services Network – York Region & South Simcoe)"
+title: "310-COPE: Community Crisis Response (YSSN)"
+sidebar_label: "310-COPE (York/South Simcoe)"
 ---
 
-**Location:** Ontario, Canada  
-**Resource type:** Crisis services (phone/TTY/chat)  
+## About
+310-COPE is a 24/7 community crisis response service from Your Support Services Network (YSSN). It offers support if you’re feeling depressed, distressed, lonely, anxious, scared, angry, or worried you have nowhere to go.
+
+## Coverage
+- **York Region**
+- **South Simcoe**
+- **North York**
+
+## Who it’s for
+- People in the service area who need **immediate crisis support** (phone, text, or online chat)
+- People seeking help for themselves or someone else
 
 ## Contact
-
-- **Call:** 1-855-310-COPE (2673)
+- **Call or text:** 1-855-310-COPE (2673)
 - **TTY:** 1-866-323-7785
-- **Website:** https://yssn.ca/crisis-services/310-cope/
+- **Live chat:** Available via the “Live Chat” link on the 310-COPE page
 
-## About
+## Hours
+- **24/7/365**
 
-Crisis support by phone (and often chat) for York Region and South Simcoe (see site).
-
-## Important
-
-- If you or someone else is in immediate danger, call **911** (or go to the nearest emergency department).
-- If you can’t get through, try another local line, or dial **211** where available for service navigation.
+## Privacy and safety approach
+- Your call is anonymous unless YSSN is required by law to disclose information for safety or legal purposes.
+- Calls may be recorded for training/quality purposes (recordings stored for about one month).
 
 ## Sources
+- YSSN — 310-COPE: https://yssn.ca/crisis-services/310-cope/
 
-- https://yssn.ca/crisis-services/310-cope/
-
-*Last compiled/checked: December 17, 2025*
+*Last compiled/checked: December 23, 2025*

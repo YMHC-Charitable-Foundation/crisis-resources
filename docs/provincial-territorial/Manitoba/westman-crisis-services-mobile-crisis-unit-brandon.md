@@ -1,26 +1,29 @@
 ---
 title: "Westman Crisis Services — Mobile Crisis Unit (Brandon)"
+sidebar_label: "Westman Crisis Services (Mobile)"
 ---
 
-**Location:** Manitoba, Canada  
-**Resource type:** Crisis support (Lifeline directory listing)  
+## About
+Westman Crisis Services’ Mobile Crisis Unit (MCU) provides **24/7** crisis support for adults. Staff can talk with you by phone and may meet you in your home or another suitable place.
+
+## Coverage
+Prairie Mountain Health’s **South** area (Westman Crisis Services), serving adults in the former **Brandon and Assiniboine** regions.
+
+## Who it’s for
+- Adults **18+** experiencing a mental health or psychosocial crisis
+- Family members and others concerned about someone in crisis
 
 ## Contact
+- **Call (24/7):** 204-725-4411  
+- **Toll-free (24/7):** 1-888-379-7699
 
-- **Call:** 204-571-0039
-- **Toll-free:** 1-888-322-3019
+## Hours
+- **24/7**
 
-## About
-
-Crisis support service listed for Manitoba.
-
-## Important
-
-- If you or someone else is in immediate danger, call **911** (or go to the nearest emergency department).
-- If you can’t get through, try another local line, or dial **211** where available for service navigation.
+## What to expect when you call
+You’ll speak with crisis staff who can help you sort out what’s happening, explore options, provide support, and connect you to follow-up resources. If appropriate, the team may arrange outreach (meeting you in the community).
 
 ## Sources
+- Prairie Mountain Health — Adult Crisis Services (South / Westman Crisis Services): https://prairiemountainhealth.ca/programs-and-services/mental-health/adults/crisis-services/
 
-- https://thelifelinecanada.ca/manitoba-crisis-centres/
-
-*Last compiled/checked: December 17, 2025*
+*Last compiled/checked: December 23, 2025*

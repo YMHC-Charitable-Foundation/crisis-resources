@@ -1,26 +1,26 @@
 ---
 title: "Government of Newfoundland and Labrador: Mental Health and Addictions"
+sidebar_label: "NL Gov: Mental Health & Addictions"
 ---
 
-**Location:** Newfoundland and Labrador, Canada  
-**Resource type:** Provincial information and supports  
+## About
+Official Government of Newfoundland and Labrador information hub for mental health and addictions supports, including crisis contacts and how to access services.
+
+## Coverage
+**Newfoundland and Labrador (province-wide).**
 
 ## Contact
-
-- (See website/source links below.)
 - **Website:** https://www.gov.nl.ca/hcs/mentalhealth-committee/mentalhealth/
+- **Mental health & addictions crisis support (call):** **811** (NL HealthLine)
+- **Mental Health & Addictions Systems Navigator:** **709-752-3916** or **1-877-999-7589 (toll-free)**  
+  **Email:** MHAnavigation@nlhealthservices.ca
 
-## About
-
-Provincial information on mental health and addictions supports and services.
-
-## Important
-
-- If you or someone else is in immediate danger, call **911** (or go to the nearest emergency department).
-- If you can’t get through, try another local line, or dial **211** where available for service navigation.
+## Notes
+For urgent support, the Government of NL directs people to call **811** for mental health and addictions crisis support.
 
 ## Sources
+- Government of Newfoundland and Labrador – Mental Health and Addictions: https://www.gov.nl.ca/hcs/mentalhealth-committee/mentalhealth/
+- Government of Newfoundland and Labrador – Help Lines: https://www.gov.nl.ca/hcs/findhealthservices/helplines/
+- NL Health Services – Mental health and addictions (811 + navigator contact): https://nlhealthservices.ca/find-health-care/primary-care-options/care-options/mental-health-addictions/
 
-- https://www.gov.nl.ca/hcs/mentalhealth-committee/mentalhealth/
-
-*Last compiled/checked: December 17, 2025*
+*Last compiled/checked: December 23, 2025*

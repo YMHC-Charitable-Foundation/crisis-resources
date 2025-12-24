@@ -1,26 +1,27 @@
 ---
-title: "CPS Haute-Mauricie (La Tuque)"
+title: "Prévention du suicide – Haute‑Mauricie (La Tuque)"
+sidebar_label: "CPS Haute-Mauricie"
 ---
+## À propos
+Ressource régionale en prévention du suicide pour le secteur de la **Haute‑Mauricie / La Tuque** (écoute, soutien, orientation).
 
-**Location:** Quebec, Canada  
-**Resource type:** Regional crisis centre/line (Lifeline directory listing)  
+## Couverture
+- **Haute‑Mauricie (La Tuque)**
+
+## Pour qui
+- Personnes qui pensent au suicide
+- Proches inquiets
+- Personnes endeuillées
 
 ## Contact
+- **Ligne locale:** 819 523-2425
+- **En tout temps (24/7):** **1 866 APPELLE** (1 866 277-3553)
+- **Clavardage (Québec):** suicide.ca
 
-- **Call:** 819-523-2425
-- **Toll-free:** 1-866-APPELLE (1-866-277-3553)
-
-## About
-
-Regional crisis support service listed for Quebec.
-
-## Important
-
-- If you or someone else is in immediate danger, call **911** (or go to the nearest emergency department).
-- If you can’t get through, try another local line, or dial **211** where available for service navigation.
+## Langues
+- Français
 
 ## Sources
+- Aide 24/7 (Québec): https://suicide.ca/fr
 
-- https://thelifelinecanada.ca/quebec-crisis-centres/
-
-*Last compiled/checked: December 17, 2025*
+*Dernière vérification : 24 décembre 2025*

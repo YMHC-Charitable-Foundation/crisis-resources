@@ -1,10 +1,9 @@
 ---
 title: "Nunavut – Crisis and support resources (by service)"
+sidebar_label: "Nunavut"
 ---
 
-*Compiled: December 17, 2025*
+## Resources
 
-## Files included
-
-- Government of Nunavut: Mental Health Resources: `government-of-nunavut-mental-health-resources.md`
-- Kamatsiaqtut Help Line (Nunavut): `kamatsiaqtut-help-line-nunavut.md`
+- [Government of Nunavut: Mental Health Resources](./government-of-nunavut-mental-health-resources.md)
+- [Kamatsiaqtut Help Line (Nunavut)](./kamatsiaqtut-help-line-nunavut.md)

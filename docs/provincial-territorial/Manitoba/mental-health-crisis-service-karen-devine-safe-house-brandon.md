@@ -1,26 +1,29 @@
 ---
-title: "Mental Health Crisis Service — Karen Devine Safe House (Brandon)"
+title: "Prairie Mountain Health: Westman Crisis Services (Brandon & Assiniboine)"
+sidebar_label: "Westman Crisis Services"
 ---
 
-**Location:** Manitoba, Canada  
-**Resource type:** Crisis support (Lifeline directory listing)  
+## About
+Westman Crisis Services (Prairie Mountain Health) supports adults in a mental health or psychosocial crisis in the former **Brandon and Assiniboine** regions. Services include a **Mobile Crisis Unit** and a **Crisis Stabilization Unit**.
+
+## Coverage
+Prairie Mountain Health — **South** (former Brandon and Assiniboine regions).
+
+## Who it’s for
+- Adults (18+) experiencing a mental health or psychosocial crisis
+- People calling for themselves, or anyone concerned about another person
 
 ## Contact
+- **24/7 Crisis Services (South):** **1-888-379-7699** (toll-free) or **204-725-4411**
+- **Website:** https://prairiemountainhealth.ca/programs-and-services/mental-health/adults/crisis-services/
 
-- **Call:** 204-727-0444
-- **Toll-free:** 1-888-322-3019
+## Hours
+- **24/7/365**
 
-## About
-
-Crisis support service listed for Manitoba.
-
-## Important
-
-- If you or someone else is in immediate danger, call **911** (or go to the nearest emergency department).
-- If you can’t get through, try another local line, or dial **211** where available for service navigation.
+## What to expect when you call
+Prairie Mountain Health notes that crisis services can provide phone support, crisis intervention, outreach (Mobile Crisis Unit), and short-term follow-up, and can help connect you to other resources.
 
 ## Sources
+- Prairie Mountain Health — Crisis Services (Adults): https://prairiemountainhealth.ca/programs-and-services/mental-health/adults/crisis-services/
 
-- https://thelifelinecanada.ca/manitoba-crisis-centres/
-
-*Last compiled/checked: December 17, 2025*
+*Last compiled/checked: December 23, 2025*

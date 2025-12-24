@@ -1,20 +1,19 @@
 ---
 title: "Manitoba – Crisis and support resources (by service)"
+sidebar_label: "Manitoba"
 ---
 
-*Compiled: December 17, 2025*
+## Resources
 
-## Files included
-
-- Eden Health Care Services (Winkler): `eden-health-care-services-winkler.md`
-- Government of Manitoba: Mental Health and Addictions: `government-of-manitoba-mental-health-and-addictions.md`
-- Interlake–Eastern Regional Health Authority: Mental Health Crisis Response: `interlake-eastern-regional-health-authority-mental-health-crisis-response.md`
-- Klinic Community Health Centre Crisis Line: `klinic-community-health-centre-crisis-line.md`
-- Manitoba Suicide Line: `manitoba-suicide-line.md`
-- Mental Health Crisis Service — Karen Devine Safe House (Brandon): `mental-health-crisis-service-karen-devine-safe-house-brandon.md`
-- Mobile Crisis Services (Winnipeg): `mobile-crisis-services-winnipeg.md`
-- Northern Health Region Mobile Crisis Team (Thompson): `northern-health-region-mobile-crisis-team-thompson.md`
-- Sara Riel Inc. Crisis Stabilization Unit (Winnipeg): `sara-riel-inc-crisis-stabilization-unit-winnipeg.md`
-- Thompson Youth Mobile Crisis Team: `thompson-youth-mobile-crisis-team.md`
-- Westman Crisis Services — Mobile Crisis Unit (Brandon): `westman-crisis-services-mobile-crisis-unit-brandon.md`
-- Winnipeg Regional Health Authority: Mental Health Crisis Response Service: `winnipeg-regional-health-authority-mental-health-crisis-response-service.md`
+- [Eden Health Care Services (Winkler)](./eden-health-care-services-winkler.md)
+- [Government of Manitoba: Mental Health & Addictions Help](./government-of-manitoba-mental-health-and-addictions.md)
+- [Interlake–Eastern RHA: Mental Health Crisis Response](./interlake-eastern-regional-health-authority-mental-health-crisis-response.md)
+- [Klinic Crisis Line (Manitoba)](./klinic-community-health-centre-crisis-line.md)
+- [Manitoba Suicide Prevention & Support Line](./manitoba-suicide-line.md)
+- [Prairie Mountain Health: Westman Crisis Services (Brandon & Assiniboine)](./mental-health-crisis-service-karen-devine-safe-house-brandon.md)
+- [Mobile Crisis Service (Winnipeg)](./mobile-crisis-services-winnipeg.md)
+- [Hope North Youth Mobile Crisis Team (Northern Health Region)](./northern-health-region-mobile-crisis-team-thompson.md)
+- [Crisis Stabilization Unit (Winnipeg)](./sara-riel-inc-crisis-stabilization-unit-winnipeg.md)
+- [Thompson Youth Crisis Support (Hope North / Northern Health Region)](./thompson-youth-mobile-crisis-team.md)
+- [Westman Crisis Services — Mobile Crisis Unit (Brandon)](./westman-crisis-services-mobile-crisis-unit-brandon.md)
+- [Crisis Response Centre (Winnipeg)](./winnipeg-regional-health-authority-mental-health-crisis-response-service.md)
