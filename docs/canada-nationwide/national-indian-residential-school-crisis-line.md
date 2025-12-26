@@ -3,7 +3,7 @@ title: "National Indian Residential School Crisis Line (Canada)"
 sidebar_label: "Indian Residential School Crisis Line"
 ---
 ## About
-The National Indian Residential School Crisis Line provides **24-hour** crisis support for **former Indian Residential School students (Survivors) and their family members**.
+The [National Indian Residential School Crisis Line](https://www.sac-isc.gc.ca/eng/1581971225188/1581971250953) provides **24-hour** crisis support for **former Indian Residential School students (Survivors) and their family members**.
 
 ## Coverage
 - **Canada-wide**

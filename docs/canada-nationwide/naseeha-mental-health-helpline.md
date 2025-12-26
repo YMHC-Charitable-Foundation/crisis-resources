@@ -3,7 +3,7 @@ title: "Naseeha Mental Health Helpline (24/7)"
 sidebar_label: "Naseeha Helpline"
 ---
 ## About
-Naseeha provides a free, culturally sensitive, Islam-inspired mental health helpline and related support services.
+[Naseeha](https://www.naseeha.org/) provides a free, culturally sensitive, Islam-inspired mental health helpline and related support services.
 
 ## Coverage
 Naseeha is based in Canada and provides helpline support by phone and online chat.

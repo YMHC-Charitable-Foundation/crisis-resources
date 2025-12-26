@@ -3,7 +3,7 @@ title: "Hope for Wellness Helpline (First Nations, Inuit, and Métis — Canada)
 sidebar_label: "Hope for Wellness"
 ---
 ## About
-Hope for Wellness provides immediate **mental health counselling and crisis intervention** to **First Nations, Inuit, and Métis** people across Canada by phone and online chat.
+[Hope for Wellness](https://www.hopeforwellness.ca/) provides immediate **mental health counselling and crisis intervention** to **First Nations, Inuit, and Métis** people across Canada by phone and online chat.
 
 ## Coverage
 - **Canada-wide**

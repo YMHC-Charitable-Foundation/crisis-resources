@@ -3,7 +3,7 @@ title: "Trans Lifeline (Canada hotline)"
 sidebar_label: "Trans Lifeline"
 ---
 ## About
-Trans Lifeline’s Hotline is a **peer support phone service run by trans people for trans and questioning peers**. You do not need to be “in crisis” to call.
+[Trans Lifeline’s Hotline](https://translifeline.org/hotline/) is a **peer support phone service run by trans people for trans and questioning peers**. You do not need to be “in crisis” to call.
 
 ## Coverage
 - **Canada hotline** (toll-free)
@@ -17,10 +17,7 @@ Trans Lifeline’s Hotline is a **peer support phone service run by trans people
 
 ## Hours
 Trans Lifeline lists set operating hours (not 24/7):
-- **Monday to Friday**
-  - **10 a.m. – 6 p.m. Pacific**
-  - **1 p.m. – 9 p.m. Eastern**
-  - (Intermediate time zones are also listed on the hotline page.)
+- Visit the [hotline page](https://translifeline.org/hotline/) for details.
 
 ## Languages
 - English

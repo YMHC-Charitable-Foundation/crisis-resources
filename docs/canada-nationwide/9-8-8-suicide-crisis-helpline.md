@@ -3,7 +3,7 @@ title: "9-8-8: Suicide Crisis Helpline (Canada)"
 sidebar_label: "9-8-8 Suicide Crisis Helpline"
 ---
 ## About
-9-8-8 is Canada’s national suicide crisis helpline, providing a safe, judgment-free space to talk if you are thinking about suicide or worried about someone else.
+[9-8-8](https://988.ca/) is Canada’s national suicide crisis helpline, providing a safe, judgment-free space to talk if you are thinking about suicide or worried about someone else.
 
 ## Coverage
 9-8-8 is **Canada-wide**.

@@ -3,7 +3,7 @@ title: "Kids Help Phone (Canada)"
 sidebar_label: "Kids Help Phone"
 ---
 ## About
-Kids Help Phone provides free, confidential support for **kids, teens, and young adults** across Canada through phone, text, and online chat.
+[Kids Help Phone](https://kidshelpphone.ca/) provides free, confidential support for **kids, teens, and young adults** across Canada through phone, text, and online chat.
 
 ## Coverage
 - **Canada-wide**

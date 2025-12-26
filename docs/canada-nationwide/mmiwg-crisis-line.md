@@ -3,7 +3,7 @@ title: "Missing and Murdered Indigenous Women and Girls (MMIWG) Support Line / C
 sidebar_label: "MMIWG Crisis Line"
 ---
 ## About
-The Missing and Murdered Indigenous Women and Girls (MMIWG) Support Line is described as an **independent, national, toll-free** line available to provide support for anyone who requires assistance.
+The [Missing and Murdered Indigenous Women and Girls (MMIWG) Support Line](https://www.mmiwg-ffada.ca/contact/) is described as an **independent, national, toll-free** line available to provide support for anyone who requires assistance.
 
 ## Coverage
 - **Canada-wide**

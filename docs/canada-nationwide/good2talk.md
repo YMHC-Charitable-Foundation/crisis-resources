@@ -3,7 +3,7 @@ title: "Good2Talk (Post-secondary student support — Ontario & Nova Scotia)"
 sidebar_label: "Good2Talk"
 ---
 ## About
-Good2Talk provides **free, confidential mental health support** for post-secondary students in **Ontario and Nova Scotia**.
+[Good2Talk](https://good2talk.ca/) provides **free, confidential mental health support** for post-secondary students in **Ontario and Nova Scotia**.
 
 ## Coverage
 - **Ontario** (Good2Talk Ontario)
