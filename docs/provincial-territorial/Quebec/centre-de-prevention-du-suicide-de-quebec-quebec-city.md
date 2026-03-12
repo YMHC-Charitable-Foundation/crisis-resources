@@ -24,7 +24,8 @@ Organisme qui offre des services de **prévention**, **intervention** et **postv
 - **24 h / 24, 7 j / 7**
 
 ## Langues
-- **Français** (le site offre aussi une section « English »).
+- **Français** (primary language of service)
+- The CPSQ website has an **English translation available** — look for the "English" link on the site
 
 ## À quoi s’attendre quand vous appelez
 Le service d’intervention téléphonique est la porte d’entrée : l’équipe écoute, soutient, et peut orienter vers des services adaptés.

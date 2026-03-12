@@ -15,6 +15,11 @@ title: "Kamatsiaqtut Help Line (Nunavut)"
 
 Anonymous and confidential support by phone, staffed by trained volunteers (see site).
 
+## Who it's for
+- Anyone in Nunavut seeking emotional support, crisis help, or just someone to talk to
+
+## Hours
+- **24/7** — extended 24/7 coverage is made possible through a **partnership with the Ottawa Distress Centre**, which covers hours when Kamatsiaqtut's local volunteers are not available
 
 ## Sources
 

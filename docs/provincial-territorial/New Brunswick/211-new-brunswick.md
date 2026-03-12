@@ -30,6 +30,6 @@ sidebar_label: "211 New Brunswick"
 A trained 211 navigator will ask what you’re looking for and help connect you to relevant services and next steps. 211 is **confidential**, and you generally do not need to share more personal information than you’re comfortable with.
 
 ## Sources
-- United Way 211 National (New Brunswick listing): https://211.ca/find-help-211/index.html
+- United Way 211 National (New Brunswick listing): https://nb.211.ca/
 
 *Last compiled/checked: December 23, 2025*

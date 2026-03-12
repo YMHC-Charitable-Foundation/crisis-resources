@@ -3,7 +3,7 @@ title: "Government of Prince Edward Island: Mental Health Support and Services"
 ---
 
 ## About
-The Government of Prince Edward Island (Health PEI) page for mental health support and services links Islanders to immediate help, in-person walk-in counselling, crisis in-person response, and longer-term mental health programs.
+The Government of Prince Edward Island (Health PEI) page for mental health support and services connects Islanders to immediate help, in-person walk-in counselling, in-person crisis response, and longer-term mental health programs.
 
 ## Coverage
 **Prince Edward Island (Canada).**
@@ -28,7 +28,7 @@ The Government of Prince Edward Island (Health PEI) page for mental health suppo
 ## What to expect when you call or use the services
 - The **Mental Health and Addictions Phone Line** is answered by trained mental health professionals (a registered nurse or a social worker) and can help assess needs, provide support, and connect you to services.
 - **Open Access Counselling** is a walk-in option (no appointment or referral required). Sessions are up to 60 minutes and there may be a short wait.
-- If the situation needs more than phone support, the **Mobile Mental Health Response Service** can provide in-person care during its service hours (accessed through the phone line).
+- If the situation requires more than phone support, the **Mobile Mental Health Response Service** can provide in-person care during its service hours (accessed through the phone line).
 
 ## Sources
 - Government of Prince Edward Island (Health PEI): Mental Health Support and Services: https://www.princeedwardisland.ca/en/information/health-pei/mental-health-support-and-services

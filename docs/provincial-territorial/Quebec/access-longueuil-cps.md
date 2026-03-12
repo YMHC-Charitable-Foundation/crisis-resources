@@ -25,6 +25,6 @@ Centre de crise adulte offrant de l’aide lors d’une crise psychosociale (ex.
 Une évaluation de la situation et du niveau d’urgence, puis du soutien (et, au besoin, une orientation vers des services adaptés).
 
 ## Sources
-- Santé Montérégie — Centre de crise L’Accès: https://www.santemonteregie.qc.ca/soins-et-services/sante-mentale-et-dependance/centre-de-crise/centre-de-crise-lacces
+- Santé Montérégie — Centre de crise L'Accès: https://www.santemonteregie.qc.ca/en/node/3095
 
 *Dernière vérification : 23 décembre 2025*

@@ -15,6 +15,7 @@ sidebar_label: "211 Alberta"
 
 ## Contact
 - **Call:** 211 (or dial specific local/toll-free numbers if your phone cannot dial 211)
+- **Toll-free (if your phone does not support 3-digit dialing):** **1-855-258-4126**
 - **Text:** INFO to 211
 - **Online Chat:** Available via https://ab.211.ca/
 - **Website:** https://ab.211.ca/

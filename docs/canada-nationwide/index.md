@@ -4,6 +4,10 @@ sidebar_label: "Canada-wide"
 sidebar_position: 5
 ---
 
+:::warning Disclaimer
+**This directory is not a crisis service.** If you are in need of immediate crisis assistance please use one of the resources listed on this website or call **9-8-8** or go to your nearest emergency department. This website may contain topics that could be distressing and awaken memories of past traumatic experiences and abuse.
+:::
+
 ## Canada Nationwide Resources
 
 - [9-8-8: Suicide Crisis Helpline (Canada)](./9-8-8-suicide-crisis-helpline.md)

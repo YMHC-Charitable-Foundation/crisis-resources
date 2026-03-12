@@ -24,8 +24,10 @@ Distress Centre Durham provides emotional support and crisis/suicide management 
 ## What to expect when you call or text
 A responder will listen without judgment, help you talk through what’s going on, and work with you on immediate next steps and safety.
 
+## Notes
+- The phone numbers listed above should be verified against the Lakeridge Health page (see Sources), as the contact details for Distress Centre Durham may have been updated.
+
 ## Sources
-- Distress Centre Durham (homepage): https://distresscentredurham.com/
-- Get Help / Distress Line numbers: https://distresscentredurham.com/gethelp/
+- Distress Centre Durham — Lakeridge Health (updated page): https://www.lh.ca/our-services/mental-health-and-addictions/distress-centre-durham/
 
 *Last compiled/checked: December 23, 2025*

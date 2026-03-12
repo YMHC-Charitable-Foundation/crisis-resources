@@ -26,7 +26,14 @@ A **24/7** crisis line (also known as the **Mental Health Mobile Crisis Team**) 
 ## What to expect when you call
 - You’ll speak with **experienced mental health professionals** who can listen, offer support, and help figure out what would be helpful next.
 - If needed, the service may **refer you to community resources**, recommend going to an emergency department, or (in HRM) **dispatch a mobile in-person crisis team** during in-person hours.
+- If you are in immediate danger or someone's life is at risk, call **911**.
 - If there’s no answer, you can **leave a message** and calls are **returned within 30 minutes**.
+
+## CARE Team (Halifax — non-police crisis response)
+Halifax Regional Municipality (HRM) now offers the **CARE (Crisis Alternate Response) Team** — a **"no police" option** for non-emergency mental health crises. The CARE Team dispatches mental health workers (not police) to respond in person to people in distress in Halifax.
+
+- For non-emergency situations in HRM where a police response is **not** needed or wanted, callers can ask about CARE Team dispatch when calling the crisis line.
+- **Available:** during in-person mobile crisis hours (**1:00 p.m. – 1:00 a.m. daily** in HRM)
 
 ## Sources
 - Government of Nova Scotia — Mental health and wellbeing (lists crisis line and 24/7 availability): https://novascotia.ca/mental-health-and-wellbeing/

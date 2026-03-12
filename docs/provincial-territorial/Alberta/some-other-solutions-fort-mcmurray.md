@@ -25,6 +25,9 @@ sidebar_label: "Some Other Solutions (YMM)"
 - **Crisis line:** **24/7/365**
 - **Office hours:** Mon–Fri **8:30 a.m.–4:30 p.m.** (per SOS contact page)
 
+## Online booking
+- SOS offers online appointment booking for counselling and wellness services: https://someothersolutions.janeapp.com/
+
 ## Languages
 - Not listed online (ask when you call).
 

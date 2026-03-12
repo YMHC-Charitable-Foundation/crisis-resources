@@ -36,7 +36,7 @@ After you call, you’ll be welcomed and asked to **select a language**, then fo
 - You can end the conversation at any time by texting **STOP**.
 
 ## Privacy and safety approach
-Good2Talk states your conversation is private and is only shared outside the service if staff are worried about your safety and they know your identifying information.
+Good2Talk states your conversation is private and is only shared outside the service if staff are concerned about your safety and they know your identifying information.
 
 ## Notes
 If you are in immediate danger or need emergency medical help, call **911**.

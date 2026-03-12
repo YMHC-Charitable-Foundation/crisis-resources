@@ -28,6 +28,11 @@ The **Family Violence Info Line** connects people in Alberta with trained staff 
 ## Privacy and safety approach
 - Help is **confidential**.
 
+## Shelter information
+- Staff can provide **real-time information on available beds in shelters** across the province.
+- Individuals and families can access emergency shelters and temporary housing when facing family violence, domestic violence, or homelessness.
+- **Find a shelter:** https://www.alberta.ca/find-shelters
+
 ## Notes
 - Standard text message rates may apply.
 

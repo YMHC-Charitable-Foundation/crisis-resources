@@ -18,7 +18,7 @@ The **Edmonton Community Resource Centre (CRC)** is a hub that supports Salvatio
 - **Website:** https://tsaedmontoncrc.ca/
 
 ## Hours
-- Not listed online (call for current hours).
+- **Mon – Fri:** 9:00 a.m. – 4:00 p.m.
 
 ## Languages
 - Not listed online (ask when you call).

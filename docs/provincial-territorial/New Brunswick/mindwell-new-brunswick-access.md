@@ -29,9 +29,8 @@ MindWell is an **online mental health and wellness platform** with classes and t
 
 ## Notes
 - MindWell is **not** an emergency service.
+
 ## Sources
-- MindWell New Brunswick access page: https://app.mindwellu.com/newbrunswick/landing
-- Government of Canada (lists MindWell for New Brunswick; notes free online resources + languages): https://www.canada.ca/en/public-health/services/mental-health-services/mental-health-get-help.html
 - MindWell official website: https://www.mindwellu.com/
 
 *Last compiled/checked: December 23, 2025*

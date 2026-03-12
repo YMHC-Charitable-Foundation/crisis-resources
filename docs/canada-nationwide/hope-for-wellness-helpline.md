@@ -24,7 +24,7 @@ sidebar_label: "Hope for Wellness"
 - **Phone support (upon request):** **Cree, Ojibway, and Inuktitut** (availability can vary week to week)
 
 ## What to expect when you call
-The FAQ describes that after dialing the number you’ll hear a recorded message in English and French, choose **English (press 1)** or **French (press 2)**, and can ask about availability of Cree/Ojibway/Inuktitut-speaking counsellors.
+The FAQ explains that after dialing the number you’ll hear a recorded message in English and French, choose **English (press 1)** or **French (press 2)**, and can ask about availability of Cree/Ojibway/Inuktitut-speaking counsellors.
 
 Counsellors may:
 - Ask how you are doing and what you’d like support with

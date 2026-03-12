@@ -12,6 +12,7 @@ The Government of Manitoba’s Mental Health & Addictions website lists provinci
 ## Contact
 - **Find services:** Call **2-1-1** (Manitoba 211)
 - **Suicide crisis (Canada):** Call or text **9-8-8** (24/7)
+- **Farm, Rural and Northern Support Line:** **1-866-367-3276** — a dedicated line for people living outside the Winnipeg/Brandon corridor, including farm families and rural and northern communities
 - **Website:** https://www.gov.mb.ca/mhcw/
 
 ## Notes

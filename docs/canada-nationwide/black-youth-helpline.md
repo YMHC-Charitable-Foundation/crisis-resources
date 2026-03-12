@@ -6,7 +6,7 @@ sidebar_label: "Black Youth Helpline"
 [Black Youth Helpline (BYH)](https://www.blackyouth.ca/) provides culturally focused support and referral help for **Black youth, families, and communities**.
 
 ## Coverage
-BYH describes itself as **Canada-wide**.
+BYH describes itself as operating **Canada-wide**.
 
 ## Who it’s for
 - Black youth and young adults

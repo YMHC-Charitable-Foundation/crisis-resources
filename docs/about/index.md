@@ -23,3 +23,8 @@ We welcome contributions to this directory. If you have any questions or suggest
 ## Terms of Service
 
 Please see our [Terms of Service](./terms-of-service).
+
+## Resources
+
+- [Contribute](./contribute.md)
+- [Terms of Service](./terms-of-service.md)

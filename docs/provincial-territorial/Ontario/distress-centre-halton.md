@@ -33,7 +33,7 @@ Not listed on the website — ask when you call.
 A trained responder will listen in a supportive, non-judgmental way and help you get through the moment.
 
 ## Privacy and safety approach
-Distress Centre Halton states that personal information it gathers is kept in confidence and is not shared with third parties unless you authorize it, it’s needed to process a transaction, or it’s required by law.
+Distress Centre Halton states that personal information it gathers is kept confidential and is not shared with third parties unless you authorize it, it’s needed to process a transaction, or it’s required by law.
 
 ## Notes
 If you are in immediate danger or need emergency medical help, call **911**.

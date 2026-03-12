@@ -21,6 +21,8 @@ Residents of the **Interlake–Eastern Regional Health Authority** area (Manitob
 
 ## Hours
 - **Crisis Line:** 24/7/365
+- **Mobile Crisis – Adult Team:** 12:00 noon – 12:00 midnight (daily)
+- **Mobile Crisis – Youth Team:** 10:00 a.m. – 10:00 p.m. (daily)
 
 ## What to expect when you call or request Mobile Crisis
 IERHA notes that crisis staff may ask about the situation, supports, and immediate safety, and can:

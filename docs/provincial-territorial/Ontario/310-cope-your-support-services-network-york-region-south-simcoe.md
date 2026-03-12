@@ -4,7 +4,7 @@ sidebar_label: "310-COPE (York/South Simcoe)"
 ---
 
 ## About
-310-COPE is a 24/7 community crisis response service from Your Support Services Network (YSSN). It offers support if you’re feeling depressed, distressed, lonely, anxious, scared, angry, or worried you have nowhere to go.
+310-COPE is a 24/7 community crisis response service provided by Your Support Services Network (YSSN). It offers support if you’re feeling depressed, distressed, lonely, anxious, scared, angry, or worried you have nowhere to go.
 
 ## Coverage
 - **York Region**

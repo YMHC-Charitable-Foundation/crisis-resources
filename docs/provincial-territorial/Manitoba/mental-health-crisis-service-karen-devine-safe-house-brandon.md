@@ -14,7 +14,8 @@ Prairie Mountain Health — **South** (former Brandon and Assiniboine regions).
 - People calling for themselves, or anyone concerned about another person
 
 ## Contact
-- **24/7 Crisis Services (South):** **1-888-379-7699** (toll-free) or **204-725-4411**
+- **24/7 Crisis Services (South — Brandon & Assiniboine):** **1-888-379-7699** (toll-free) or **204-725-4411**
+- **24/7 Crisis Services (North/Parkland):** **1-866-332-3030** (toll-free) — for Prairie Mountain Health communities in the north and Parkland areas
 - **Website:** https://prairiemountainhealth.ca/programs-and-services/mental-health/adults/crisis-services/
 
 ## Hours

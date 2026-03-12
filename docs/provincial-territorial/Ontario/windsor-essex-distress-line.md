@@ -4,7 +4,7 @@ sidebar_label: "Windsor-Essex Distress Line"
 ---
 
 ## About
-The Distress Centre of Windsor-Essex County provides **free, anonymous, confidential** telephone-based support, including emotional support, crisis intervention, suicide prevention, and referrals to community resources.
+The Distress Centre of Windsor-Essex County provides **free, anonymous, and confidential** telephone-based support, including emotional support, crisis intervention, suicide prevention, and referrals to community resources.
 
 ## Coverage
 - **Ontario:** Windsor-Essex County

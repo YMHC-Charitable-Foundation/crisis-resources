@@ -15,6 +15,7 @@ Winnipeg’s Mobile Crisis Service provides **24/7** phone-based mental health c
 
 ## Contact
 - **Call:** 204-940-1781
+- **In-person (walk-in):** 817 Bannatyne Avenue, Winnipeg — people in Winnipeg can also attend in person if they prefer face-to-face support
 
 ## Hours
 - **24/7**

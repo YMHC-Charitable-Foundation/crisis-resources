@@ -11,7 +11,7 @@ Wood’s Homes provides crisis counselling and mental health supports for childr
 - Toll-free phone option is available (see Contact).
 
 ## Who it’s for
-- Children, youth, adults, and families seeking crisis counselling, support, or help navigating mental health services
+- Children, youth (ages 18–24), adults, and families seeking crisis counselling, support, or help navigating mental health services
 
 ## Contact
 - **Call:** 403-299-9699

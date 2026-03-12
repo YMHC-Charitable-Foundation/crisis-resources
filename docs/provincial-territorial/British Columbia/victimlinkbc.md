@@ -31,7 +31,8 @@ VictimLinkBC can help by:
 
 ## Privacy and safety approach
 - The service is described as **confidential**.
-- The website includes a **“Safety Exit”** option to leave the site quickly.
+- **A police report is not required** to access VictimLinkBC — you can call regardless of whether the incident has been reported to police.
+- The website includes a **"Safety Exit"** option to leave the site quickly.
 
 ## Sources
 - VictimLinkBC official website: https://victimlinkbc.ca/

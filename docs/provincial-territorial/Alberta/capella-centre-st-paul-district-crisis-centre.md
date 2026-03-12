@@ -22,6 +22,10 @@ Primarily **St. Paul and surrounding area** (services are based in St. Paul, Alb
 ## Hours
 - **24/7/365** (24-hour support line; shelter is open 24 hours a day, 365 days a year)
 
+## Additional programs and supports
+- **Shelter School Program:** Children staying at the shelter can continue their schooling through the shelter's school program — families do not have to worry about their children's education being disrupted while accessing safety.
+- **Pet Safekeeping:** Capella Centre offers a pet safekeeping program so that individuals and families do not have to worry about leaving pets behind when fleeing a dangerous situation.
+
 ## Notes
 - Capella Centre’s website includes a quick-exit (“Leave this website now”) feature for safety.
 

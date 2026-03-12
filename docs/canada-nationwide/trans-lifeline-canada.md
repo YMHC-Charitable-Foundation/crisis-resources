@@ -16,8 +16,13 @@ sidebar_label: "Trans Lifeline"
 - (Trans Lifeline also lists a separate U.S. hotline on their site.)
 
 ## Hours
-Trans Lifeline lists set operating hours (not 24/7):
-- Visit the [hotline page](https://translifeline.org/hotline/) for details.
+Trans Lifeline's hotline operating hours are **Monday through Friday:**
+- **10 AM – 6 PM** Pacific
+- **11 AM – 7 PM** Mountain
+- **12 PM – 8 PM** Central
+- **1 PM – 9 PM** Eastern
+
+Visit the [hotline page](https://translifeline.org/hotline/) for scheduled closures and holiday hours.
 
 ## Languages
 - English

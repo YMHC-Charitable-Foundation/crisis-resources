@@ -27,7 +27,7 @@ sidebar_label: "BC 211"
 - Phone interpretation is available in **240+ languages and dialects**.
 
 ## What to expect when you call or text
-- A trained Resource Navigator will listen to what you need and suggest/refers you to relevant services.
+- A trained Resource Navigator will listen to what you need and suggest/refer you to relevant services.
 - You may be placed in a queue for text or web chat support.
 
 ## Sources

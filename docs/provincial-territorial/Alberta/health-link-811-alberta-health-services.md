@@ -23,6 +23,11 @@ sidebar_label: "Health Link 811 (AB)"
 ## Languages
 - Support is available in **240+ languages** (ask when you call).
 
+## Virtual MD
+**Virtual MD** is a program that enables some Health Link 811 callers to talk to a doctor by phone or video about their immediate health concerns. Virtual MD staff will determine the most appropriate type of care, which may be virtual, referral to a primary care network, or direction to the nearest emergency department.
+
+- **Hours:** Monday to Sunday, **6:00 a.m. – 2:00 a.m.**
+
 ## Notes
 - If you have a medical emergency, call **911**.
 

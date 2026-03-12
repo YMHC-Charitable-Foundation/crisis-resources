@@ -28,7 +28,7 @@ BounceBack® is a **free**, evidence-based **CBT (cognitive behavioural therapy)
 
 ## What to expect
 - Coaching is delivered in **up to six telephone sessions** (often 15–20 minutes) over **about 3–6 months**
-- You can be referred by a primary care provider, or **self-refer** online (the program may contact your primary care provider)
+- You can be referred by a primary care provider, or **self-refer online** — please be aware that if you self-refer, **BounceBack will contact your doctor/primary care provider** as part of the program process
 - Workbooks may be mailed to you (you can choose where they are sent)
 
 ## Privacy and safety approach

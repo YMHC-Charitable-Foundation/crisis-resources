@@ -21,11 +21,19 @@ Northern Health Region communities (Northern Manitoba).
 - **12:00 noon – 12:00 midnight (daily)**  
 - **8:30 a.m. – 4:30 p.m. (Monday–Friday)** for triage and follow-up services
 
+## Youth Mental Health Central Intake
+The Northern Health Region has launched a **centralized youth mental health intake** for community and crisis mental health services for youth **17 and younger**. This is now the primary point of contact for all youth mental health intake across the Northern Health Region.
+
+- **Phone:** **1-866-242-1571**
+- **Fax:** 204-778-1766
+- **Email:** youthmentalhealth@nrha.ca
+
 ## Notes
 - As of **September 2025**, the Hope North facility in Thompson was reported as temporarily closed for repairs, but **Mobile Crisis Services remain available by phone**.
 
 ## Sources
 - Hope North Recovery Centre for Youth — services notice (includes hours and phone): https://northernhealthregion.com/wp-content/uploads/2020/05/Hope-North-Notice-2020-2.pdf
+- Northern Health Region — New Youth Mental Health Central Intake (updated May 2025): https://northernhealthregion.com/new-youth-mental-health-central-intake/
 - Northern Health Region news — Hope North temporary closure (phone remains available): https://northernhealthregion.com/2025/09/22/hope-north-thompson-temp-closure/
 
 *Last compiled/checked: December 23, 2025*

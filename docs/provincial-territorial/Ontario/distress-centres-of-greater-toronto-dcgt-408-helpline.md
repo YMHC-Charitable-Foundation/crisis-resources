@@ -7,7 +7,7 @@ sidebar_label: "DCGT — 408 Helpline"
 Distress Centres of Greater Toronto (DCGT) offers the **408 Helplines** for emotional support, crisis de-escalation, and suicide prevention support.
 
 ## Coverage
-Primarily **Greater Toronto Area (GTA)** and **Peel Region (Ontario)**.
+Primarily **the Greater Toronto Area (GTA)** and **Peel Region (Ontario)**.
 
 ## Who it’s for
 - People experiencing emotional distress, abuse, social marginalization, or thoughts of suicide
