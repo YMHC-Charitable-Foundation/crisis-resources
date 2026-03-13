@@ -3,6 +3,12 @@ title: "Québec – Ressources de crise et de soutien (par service)"
 sidebar_label: "Québec"
 ---
 
+:::warning Avertissement
+**Ce répertoire n'est pas un service de crise.** Si vous avez besoin d'une aide d'urgence immédiate, veuillez utiliser l'une des ressources indiquées sur ce site, composer le **9-8-8** ou vous rendre à l'urgence la plus proche. Ce site peut aborder des sujets pouvant être perturbants et raviver des souvenirs d'expériences traumatisantes ou d'abus.
+
+**This directory is not a crisis service.** If you are in need of immediate crisis assistance please use one of the resources listed on this website or call **9-8-8** or go to your nearest emergency department. This website may contain topics that could be distressing and awaken memories of past traumatic experiences and abuse.
+:::
+
 ## Ressources
 
 - [Centre de crise L’Accès (Longueuil)](./access-longueuil-cps.md)

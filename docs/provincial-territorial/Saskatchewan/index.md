@@ -3,6 +3,10 @@ title: "Saskatchewan – Crisis and support resources (by service)"
 sidebar_label: "Saskatchewan"
 ---
 
+:::warning Disclaimer
+**This directory is not a crisis service.** If you are in need of immediate crisis assistance please use one of the resources listed on this website or call **9-8-8** or go to your nearest emergency department. This website may contain topics that could be distressing and awaken memories of past traumatic experiences and abuse.
+:::
+
 ## Resources
 
 - [Saskatoon Mental Health & Addictions Central Intake](./fhhr-intake-worker-saskatoon.md)
