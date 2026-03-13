@@ -21,9 +21,10 @@ City limits of Prince Albert, Saskatchewan.
 
 - **Crisis line:** 306‑764‑1011
 - **Office line:** 306‑764‑1039
-- **Fax:** 306‑764‑1041
-- **Email:** pamcu@sasktel.net
+- **Fax:** 306‑922‑9559
+- **Email:** office@pacrisis.ca
 - **Address:** 15 – 15th Street West, Prince Albert, SK S6V 3P4
+- **Website:** https://www.pacrisis.ca/
 
 ## Hours
 

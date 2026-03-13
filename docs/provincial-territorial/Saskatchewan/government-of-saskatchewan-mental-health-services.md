@@ -19,8 +19,9 @@ The Government of Saskatchewan provides information and links to a range of ment
 - **HealthLine 811:** Confidential health and mental health advice line staffed by registered nurses and social workers, available 24/7.
 - **Emergency:** Call **911** if someone is at immediate risk of harming themselves or others.
 - **Mental Health & Addictions Branch:** **306‑787‑3297** (weekdays 8:00 am–5:00 pm).
-- **Counselling Connect Saskatchewan:** Offers rapid access to free virtual counselling at counsellingconnectsask.ca.
+- **Counselling Connect Saskatchewan:** Offers rapid access to free virtual counselling — https://www.counsellingconnectsask.ca/
 - **Other helplines:** TAO Tel-Aide (French) **1‑800‑567‑9699**; Hope for Wellness (Indigenous) **1‑855‑242‑3310** or chat at hopeforwellness.ca; Kids Help Phone **1‑800‑668‑6868**; Farm Stress Line **1‑800‑667‑4442**.
+- **Website (Government of Saskatchewan – Mental Health Services):** https://www.saskatchewan.ca/residents/health/accessing-health-care-services/mental-health-and-addictions-support-services/mental-health-support/mental-health-services
 
 ## Hours
 

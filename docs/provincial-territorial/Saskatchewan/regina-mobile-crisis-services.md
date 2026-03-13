@@ -23,6 +23,7 @@ City of Regina and surrounding area, Saskatchewan.
 - **Regina Police Service for dispatch:** 306‑777‑6500 (for emergency mobile response)
 - **Fax:** 306‑757‑0134
 - **Mailing address:** 1646 11th Avenue, Regina, SK S4P 0H3
+- **Website:** https://mobilecrisis.ca/
 
 ## Hours
 

@@ -19,12 +19,13 @@ Communities across north‑east Saskatchewan, including Melfort, Nipawin and sur
 
 ## Contact
 
-- **24‑hour crisis line (Women’s Shelter):** 306‑752‑9455
-- **Admin offices (Melfort):** 306‑752‑9464 (Monday–Friday 8:00 am – 4:00 pm)
-- **Outreach:** 306‑752‑6535 (Monday–Friday 8:00 am – 4:00 pm)
+- **24‑hour crisis line (Women's Shelter):** 306‑752‑9455
+- **Admin offices (Melfort):** 306‑752‑9464 (Monday–Friday 8:00 am – 4:00 pm)
+- **Outreach:** 306‑752‑6535 (Monday–Friday 8:00 am – 4:00 pm)
 - **Nipawin area outreach:** 306‑812‑7292
-- **Email:** admin@neoss.ca
-- **Address:** 102 Somerset Drive, Melfort, SK S0E 1A0
+- **Email:** adm@neoss.ca
+- **Address:** 124 McKendry Ave W, Melfort, SK S0E 1A0
+- **Website:** https://www.neoss.ca/
 
 ## Hours
 

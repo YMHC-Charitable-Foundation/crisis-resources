@@ -21,6 +21,8 @@ The Saskatoon Mental Health & Addictions Central Intake is the point of entry fo
 
 - **Phone (Central Intake Line):** 306‑655‑7777
 - **Address:** 715 Queen Street, Saskatoon, SK S7K 4X4 (Sturdy Stone Centre). Intake is offered by phone; in‑person visits generally require an appointment.
+- **Website (SHA intake lines):** https://www.saskhealthauthority.ca/your-health/conditions-illnesses-services-wellness/all-z/mental-health-and-addictions/mental-health-and-addictions-intake-lines
+- **Online intake request form:** https://mhas.saskatoonhealthregion.ca/
 
 ## Hours
 
