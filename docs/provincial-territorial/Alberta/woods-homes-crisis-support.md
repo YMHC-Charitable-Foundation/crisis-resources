@@ -8,14 +8,12 @@ Wood’s Homes provides crisis counselling and mental health supports for childr
 
 ## Coverage
 - **Calgary (and area)**
-- Toll-free phone option is available (see Contact).
 
 ## Who it’s for
 - Children, youth (ages 18–24), adults, and families seeking crisis counselling, support, or help navigating mental health services
 
 ## Contact
 - **Call:** 403-299-9699
-- **Toll-free:** 1-800-563-6106
 - **Text:** 587-315-5000
 - **Live chat:** via Wood’s Homes website
 - **Website:** https://www.woodshomes.ca/
@@ -26,6 +24,12 @@ Wood’s Homes provides crisis counselling and mental health supports for childr
 
 ## Languages
 - A multilingual crisis counselling team is listed for Eastside Community Mental Health Services (ask when you call/text to confirm availability).
+
+## Privacy and safety approach
+Wood's Homes describes Eastside Community Mental Health Services as confidential crisis counselling. Use phone/text/chat from a safe device if someone else can see your history.
+
+## Notes
+- The older toll-free number **1-800-563-6106** was not listed on the current Wood's Homes Eastside page during review, so it has been removed here.
 
 ## Sources
 - Wood’s Homes – Eastside Community Mental Health Services (call/text/chat hours): https://www.woodshomes.ca/eastside-community-mental-health-services/

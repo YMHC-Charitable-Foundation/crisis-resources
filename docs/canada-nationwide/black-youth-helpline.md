@@ -15,8 +15,8 @@ BYH describes itself as operating **Canada-wide**.
 
 ## Contact
 - **Toll-free:** **1-833-294-8650** (1-833-BYH-8650)
-- **Phone (GTA):** **416-285-9944** or **416-739-8989**
-- **Email:** **nationalhelpline@bellnet.ca**
+- **Phone (GTA):** **416-285-9944**
+- **Email:** **info@blackyouth.ca**
 - **Website:** https://www.blackyouth.ca/
 
 ## Hours
@@ -30,9 +30,12 @@ BYH materials describe:
 - A supportive, culturally relevant conversation
 - Help navigating services and referrals, including for mental health and crisis supports
 
+## Privacy and safety approach
+BYH links its contact form to a privacy policy and asks users to agree before submitting online. For urgent safety concerns, call the helpline directly or use emergency/crisis services.
+
 ## Notes
-- As of this update, some BYH pages may block automated browsing. If any contact details change, BYH’s website is the source of truth.
+- The current BYH contact page lists **416-285-9944**, **1-833-294-8650**, and **info@blackyouth.ca**. The older **416-739-8989** and **nationalhelpline@bellnet.ca** details were not retained.
 
 ## Sources
 - Black Youth Helpline (official website): https://www.blackyouth.ca/
-- BYH contact listing (phone numbers / toll-free / email): https://www.blackyouth.ca/contact/
+- BYH contact listing (phone numbers / toll-free / email): https://blackyouth.ca/contact-us/

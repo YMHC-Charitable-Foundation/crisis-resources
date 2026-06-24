@@ -46,6 +46,9 @@ If you are Deaf or Hard of Hearing, 9-8-8 lists three ways to get help:
 - Calling is toll-free (including from payphones, as noted in the FAQ).
 - Standard carrier texting rates may apply depending on your plan.
 
+## Privacy and safety approach
+9-8-8 describes the service as a **safe, judgment-free** space. As with crisis services generally, responders may need to take safety steps if someone is at immediate risk; check the 9-8-8 website for the current privacy and safety details.
+
 ## Sources
 - 9-8-8 official website: https://988.ca/
 - What to expect / FAQs / languages / accessibility: https://988.ca/get-help/what-to-expect

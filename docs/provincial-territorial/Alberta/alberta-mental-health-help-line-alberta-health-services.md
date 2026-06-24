@@ -15,7 +15,7 @@ The Alberta Mental Health Help Line is a confidential, 24/7 service that provide
 
 ## Contact
 - **Call:** 1-877-303-2642 (toll-free)
-- **Health Link:** Dial 811 and ask for the Mental Health Help Line
+- **Health Link:** Dial 811, or **1-866-408-5465**, and ask for the Mental Health Help Line
 
 ## Hours
 - **24/7/365**

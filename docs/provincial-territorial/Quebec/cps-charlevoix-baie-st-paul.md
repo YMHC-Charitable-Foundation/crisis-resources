@@ -20,14 +20,17 @@ Le **Centre de prévention du suicide de Charlevoix (CPSC)** offre des services 
 - **Clavardage (Québec):** suicide.ca
 
 ## Heures
-- **Lundi au vendredi:** 8 h 30 à 16 h 30  
+- **Lundi au vendredi:** 8 h 30 à 12 h et 13 h à 16 h 30
 - **24/7:** via **1 866 APPELLE**
 
 ## Langues
-- Français
+- Mainly French (Principalement français)
 
 ## À quoi s’attendre quand vous appelez
 Soutien confidentiel et gratuit, avec possibilités d’écoute, d’intervention de crise et d’orientation vers des services.
+
+## Privacy and safety approach
+The service describes support as free and confidential. Ask the responder about any safety-related confidentiality limits when you connect.
 
 ## Sources
 - Site officiel (aide / coordonnées / horaires): https://www.cps-charlevoix.com/je-pense-au-suicide/

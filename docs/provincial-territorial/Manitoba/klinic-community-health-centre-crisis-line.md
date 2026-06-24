@@ -16,7 +16,7 @@ Primarily **Manitoba** (toll-free calling is available).
 ## Contact
 - **Call:** 204-786-8686
 - **Toll-free:** 1-888-322-3019
-- **Sexual Assault Crisis Line:** **204-786-8781** — Klinic is Manitoba's provincial leader for sexual assault response; this line provides specialized support for survivors of sexual assault
+- **Sexual Assault Crisis Line:** **204-786-8631** or **1-888-292-7565** (free from anywhere) — Klinic is Manitoba's provincial leader for sexual assault response; this line provides specialized support for survivors of sexual assault
 - **Website:** https://klinic.mb.ca/all-services/crisis-lines/
 
 ## Hours
@@ -24,6 +24,9 @@ Primarily **Manitoba** (toll-free calling is available).
 
 ## Notes
 - Manitoba’s Mental Health & Addictions website lists **TTY: 204-784-4097** for the Klinic Crisis Line.
+
+## Privacy and safety approach
+Klinic describes its crisis lines as confidential support. As with crisis and sexual-assault services generally, ask about confidentiality and safety limits when you connect.
 
 ## Sources
 - Klinic Community Health — Crisis and Support Lines: https://klinic.mb.ca/all-services/crisis-lines/

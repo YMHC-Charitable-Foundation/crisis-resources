@@ -15,7 +15,7 @@ sidebar_label: "211 Alberta"
 
 ## Contact
 - **Call:** 211 (or dial specific local/toll-free numbers if your phone cannot dial 211)
-- **Toll-free (if your phone does not support 3-digit dialing):** **1-855-258-4126**
+- **Calgary / Central and Southern Alberta (if your phone cannot dial 211):** **1-855-266-1605**
 - **Text:** INFO to 211
 - **Online Chat:** Available via https://ab.211.ca/
 - **Website:** https://ab.211.ca/
@@ -30,7 +30,10 @@ sidebar_label: "211 Alberta"
 
 ## Cost
 - Free service
-- Confidential
+
+## Privacy and safety approach
+- 211 Alberta describes the service as **confidential**.
+- If you are using chat or text, use a safe device if someone else can access your messages.
 
 ## What to expect when you call or text
 When you contact 211, a certified Community Resource Specialist will listen to your needs and help navigate you toward the right resource or referral. The specialist will draw on their expertise and the database of resources to connect you with appropriate services in your area.

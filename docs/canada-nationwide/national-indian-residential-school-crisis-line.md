@@ -21,5 +21,8 @@ The [National Indian Residential School Crisis Line](https://www.sac-isc.gc.ca/e
 ## What to expect when you call
 Indigenous Services Canada describes the line as providing immediate emotional assistance and referrals/support connections.
 
+## Privacy and safety approach
+The line provides crisis support and emotional assistance. As with any immediate-support line, ask the responder about confidentiality and safety limits when you connect.
+
 ## Sources
 - Indigenous Services Canada — Indian Residential Schools Resolution Health Support Program (crisis line listing): https://www.sac-isc.gc.ca/eng/1581971225188/1581971250953

@@ -29,7 +29,7 @@ sidebar_label: "Kids Help Phone"
 ## What to expect when you call, text, or chat
 - **Call:** You’ll reach a **professional counsellor**.
 - **Text:** You’ll connect with a **trained volunteer crisis responder**.
-- **Live Chat counselling:** You’ll chat in real time with a **professional counsellor**; the Live Chat FAQ notes it is anonymous and confidential.
+- **Live Chat counselling:** You’ll chat in real time with a **professional counsellor** during posted hours; the page may show **"Live Chat is closed"** outside those hours. The Live Chat FAQ notes it is anonymous and confidential.
 
 ## Privacy and safety approach
 Kids Help Phone describes its services as **confidential**; the Live Chat counselling page notes it is **anonymous and confidential** and links to privacy details (including duty to report).

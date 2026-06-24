@@ -14,7 +14,6 @@ MindWell is an **online mental health and wellness platform** with classes and t
 - Anyone looking to build habits for stress, focus, and resilience
 
 ## Contact
-- **New Brunswick access page:** https://app.mindwellu.com/newbrunswick/landing
 - **MindWell website:** https://www.mindwellu.com/
 
 ## Hours
@@ -29,6 +28,10 @@ MindWell is an **online mental health and wellness platform** with classes and t
 
 ## Notes
 - MindWell is **not** an emergency service.
+- The previous New Brunswick access page (https://app.mindwellu.com/newbrunswick/landing) no longer showed a usable public landing page during review. Use the main MindWell website and confirm current New Brunswick access through the referring organization.
+
+## Privacy and safety approach
+MindWell is an online wellness platform, not a crisis line. Review MindWell's current privacy terms when creating an account, and use emergency/crisis supports for immediate danger.
 
 ## Sources
 - MindWell official website: https://www.mindwellu.com/

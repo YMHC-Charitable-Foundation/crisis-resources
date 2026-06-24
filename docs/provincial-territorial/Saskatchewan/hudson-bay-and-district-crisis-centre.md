@@ -18,7 +18,7 @@ Hudson Bay and surrounding district in northeast Saskatchewan.
 
 ## Contact
 
-- **24‑hour crisis line:** 1‑800‑611‑6349 (toll‑free)
+- **24‑hour crisis line:** 1-306-752-9455
 - **Business line:** 306‑865‑3064
 - **Fax:** 306‑865‑3063
 - **Address:** 501 Churchill Street, Box 403, Hudson Bay, SK S0E 0Y0 (Blake Beattie Building) *(note: some 211 Saskatchewan listings show "501 Prince Street" for the same centre — confirm directly with the centre if needed)*
@@ -36,6 +36,9 @@ Hudson Bay and surrounding district in northeast Saskatchewan.
 ## What to expect when you call
 
 During office hours, staff can provide information, safety planning, outreach and referrals. Outside office hours, the 24‑hour crisis line connects you to a responder who can offer immediate support and connect you to shelter, counselling or other services as needed.
+
+## Privacy and safety approach
+Use a safe phone if someone else may see your call history. Ask staff about confidentiality and safety planning when you connect.
 
 ## Sources
 
