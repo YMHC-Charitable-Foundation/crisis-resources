@@ -17,4 +17,3 @@ sidebar_label: "New Brunswick"
 - [Government of New Brunswick: Addictions and Mental Health](./government-of-new-brunswick-addictions-and-mental-health.md)
 - [MindWell (New Brunswick access)](./mindwell-new-brunswick-access.md)
 - [Social Supports NB](./social-supports-nb.md)
-- [Strongest Families Institute](./strongest-families-institute.md)
