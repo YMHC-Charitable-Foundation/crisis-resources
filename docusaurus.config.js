@@ -33,6 +33,48 @@ const config = {
     locales: ['en'],
   },
 
+  headTags: [
+    {tagName: 'link', attributes: {rel: 'alternate', type: 'text/plain', title: 'llms.txt', href: '/llms.txt'}},
+    {tagName: 'link', attributes: {rel: 'ai-catalog', href: '/.well-known/ai-catalog.json'}},
+    {tagName: 'link', attributes: {rel: 'api-catalog', href: '/.well-known/api-catalog'}},
+  ],
+
+  clientModules: ['./src/clientModules/webmcp.js'],
+
+  plugins: [
+    [
+      'docusaurus-plugin-llms',
+      {
+        generateMarkdownFiles: true,
+        excludeImports: true,
+        removeDuplicateHeadings: true,
+        description:
+          'Directory of Canadian crisis lines and mental health support services, nationwide and by province/territory. Not a crisis service: in an emergency call 9-1-1, or call/text 9-8-8.',
+      },
+    ],
+    [
+      'docusaurus-plugin-mcp-server',
+      {
+        server: {name: 'crisis-resources', version: '1.0.0'},
+        skills: {dir: 'skills'},
+      },
+    ],
+    [
+      './plugins/agent-discovery.js',
+      {
+        mcpServerName: 'crisis-resources',
+        mcpServerVersion: '1.0.0',
+        representativeQueries: [
+          'suicide crisis line in Canada',
+          'youth mental health helpline Ontario',
+          'Indigenous crisis support line',
+          'ligne de prévention du suicide Québec',
+          'mental health crisis team Alberta',
+        ],
+      },
+    ],
+  ],
+
   presets: [
     [
       'classic',

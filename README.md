@@ -1,41 +1,29 @@
-# Website
+# YMHC Crisis Resources Directory
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Source for https://crisis.ymhc.ngo, a directory of Canadian crisis lines and mental health supports
+published by Youth Mental Health Canada. Built with [Docusaurus](https://docusaurus.io/) and hosted on
+Cloudflare Pages. **This directory is not a crisis service.**
 
-## Installation
+## Development
 
-```bash
-yarn
-```
-
-## Local Development
+Requires Node 22+.
 
 ```bash
-yarn start
+npm ci
+npm start                   # dev server
+npx docusaurus build        # production build → build/
+npx wrangler pages dev      # serve build/ with the Pages Functions (MCP, Markdown negotiation)
 ```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-## Build
-
-```bash
-yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
 ## Deployment
 
-Using SSH:
+Pushing to `master` deploys automatically through Cloudflare Pages.
 
-```bash
-USE_SSH=true yarn deploy
-```
+## For AI agents
 
-Not using SSH:
+- Directory index: https://crisis.ymhc.ngo/llms.txt (full text: `/llms-full.txt`)
+- Any page as Markdown: append `.md`, or send `Accept: text/markdown`
+- MCP server: `https://crisis.ymhc.ngo/mcp`
+- Agent skill: https://crisis.ymhc.ngo/.well-known/agent-skills/index.json
 
-```bash
-GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Contributor and coding-agent instructions are in [AGENTS.md](./AGENTS.md).

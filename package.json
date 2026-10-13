@@ -9,26 +9,29 @@
 		"prebuild": "python update_indices.py",
 		"build": "docusaurus build",
 		"swizzle": "docusaurus swizzle",
-		"deploy": "npm run build && wrangler deploy",
+		"deploy": "npm run build && wrangler pages deploy",
 		"clear": "docusaurus clear",
 		"serve": "docusaurus serve",
 		"write-translations": "docusaurus write-translations",
 		"write-heading-ids": "docusaurus write-heading-ids",
-		"preview": "npm run build && wrangler dev"
+		"preview": "npm run build && wrangler pages dev"
 	},
 	"dependencies": {
-		"@docusaurus/core": "3.9.2",
-		"@docusaurus/preset-classic": "3.9.2",
-		"@mdx-js/react": "^3.0.0",
-		"clsx": "^2.0.0",
-		"prism-react-renderer": "^2.3.0",
-		"react": "^19.0.0",
-		"react-dom": "^19.0.0"
+		"@docusaurus/core": "3.10.2",
+		"@docusaurus/preset-classic": "3.10.2",
+		"@mdx-js/react": "^3.1.1",
+		"clsx": "^2.1.1",
+		"docusaurus-plugin-llms": "^0.6.1",
+		"docusaurus-plugin-mcp-server": "^2.3.0",
+		"prism-react-renderer": "^2.4.1",
+		"react": "^19.3.0",
+		"react-dom": "^19.3.0",
+		"zod": "^4.6.7"
 	},
 	"devDependencies": {
-		"@docusaurus/module-type-aliases": "3.9.2",
-		"@docusaurus/types": "3.9.2",
-		"wrangler": "^4.56.0"
+		"@docusaurus/module-type-aliases": "3.10.2",
+		"@docusaurus/types": "3.10.2",
+		"wrangler": "^4.150.0"
 	},
 	"browserslist": {
 		"production": [
@@ -43,6 +46,6 @@
 		]
 	},
 	"engines": {
-		"node": ">=20.0"
+		"node": ">=22.0"
 	}
 }
