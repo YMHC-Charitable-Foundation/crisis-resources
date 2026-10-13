@@ -71,12 +71,19 @@ The build must pass. `onBrokenLinks: 'throw'` fails the build on any broken inte
 | `/.well-known/agent-skills/index.json` (+ sha256 digests) | `plugins/agent-discovery.js` from `skills/*/SKILL.md` |
 | `/.well-known/api-catalog` (RFC 9727), `/.well-known/ai-catalog.json` (ARD) | `plugins/agent-discovery.js` |
 | `_headers` (content types, CORS for discovery files) | `plugins/agent-discovery.js` |
+| `/auth.md` (says plainly that no authentication exists) | `static/auth.md` |
+| `/.well-known/oauth-protected-resource`, `/.well-known/oauth-authorization-server` ("no auth" metadata) | `plugins/agent-discovery.js` |
 | WebMCP tools (`search_crisis_resources`, `get_crisis_resource`) | `src/clientModules/webmcp.js` |
 | DNS-AID: SVCB `_index._agents.crisis` and `_mcp._agents.crisis`, TXT `_catalog._agents.crisis` (DNSSEC on) | Cloudflare DNS, zone `ymhc.ngo` (not in this repo) |
 
 The robots.txt policy is deliberate: search crawlers and user-triggered AI fetchers are allowed, and
 AI **training** crawlers are disallowed (outdated numbers baked into models are a safety risk). Don't
 change it without the maintainer's approval.
+
+**Auth documents must stay honest.** The site has no authentication. The OAuth/auth.md documents
+declare empty `authorization_servers`, no grant types, no token or authorization endpoints, and
+anonymous-only access. Never add fake endpoints, scopes, or registration flows to pass a scanner. If
+real authentication is ever added, rewrite these documents to describe it accurately.
 
 When you change a skill in `skills/`, rebuild. Its digest in the index is recomputed automatically.
 

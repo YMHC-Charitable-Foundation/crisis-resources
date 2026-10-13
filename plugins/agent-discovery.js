@@ -127,6 +127,50 @@ module.exports = function agentDiscoveryPlugin(context, options) {
         ],
       });
 
+      // Auth metadata. This site has NO authentication: every endpoint is public and
+      // read-only. These documents exist so agents can discover that fact through the
+      // standard locations. They advertise no authorization servers, grants, scopes or
+      // token endpoints, so no agent is sent off to fetch a credential that doesn't exist.
+      const noAuthNote =
+        'This site has no authentication. All pages and the MCP endpoint are public and read-only; no account, API key, registration or access token is needed or accepted. See /auth.md.';
+
+      // RFC 9728 Protected Resource Metadata
+      write('.well-known/oauth-protected-resource', {
+        resource: `${site}/`,
+        resource_name: siteConfig.title,
+        authorization_servers: [],
+        scopes_supported: [],
+        bearer_methods_supported: [],
+        resource_documentation: `${site}/auth.md`,
+        resource_policy_uri: `${site}/about/terms-of-service`,
+        authentication_required: false,
+        description: noAuthNote,
+      });
+
+      // RFC 8414 Authorization Server Metadata. Declares an issuer that supports no grant
+      // types, response types or endpoints (there is nothing to authorize).
+      write('.well-known/oauth-authorization-server', {
+        issuer: site,
+        grant_types_supported: [],
+        response_types_supported: [],
+        scopes_supported: [],
+        token_endpoint_auth_methods_supported: ['none'],
+        service_documentation: `${site}/auth.md`,
+        op_policy_uri: `${site}/about/terms-of-service`,
+        authentication_required: false,
+        description: noAuthNote,
+        agent_auth: {
+          skill: `${site}/auth.md`,
+          authentication_required: false,
+          identity_types_supported: ['anonymous'],
+          anonymous: {
+            credential_types_supported: ['none'],
+            description: 'Anonymous access is the only mode. Send requests without credentials.',
+          },
+          registration_required: false,
+        },
+      });
+
       // Cloudflare Pages static asset headers
       write(
         '_headers',
@@ -137,6 +181,13 @@ module.exports = function agentDiscoveryPlugin(context, options) {
           '  Content-Type: application/linkset+json; profile="https://www.rfc-editor.org/info/rfc9727"',
           '/.well-known/ai-catalog.json',
           '  Content-Type: application/json',
+          '/.well-known/oauth-protected-resource',
+          '  Content-Type: application/json',
+          '/.well-known/oauth-authorization-server',
+          '  Content-Type: application/json',
+          '/auth.md',
+          '  Content-Type: text/markdown; charset=utf-8',
+          '  Access-Control-Allow-Origin: *',
           '/.well-known/agent-skills/*.md',
           '  Content-Type: text/markdown; charset=utf-8',
           '/llms.txt',
