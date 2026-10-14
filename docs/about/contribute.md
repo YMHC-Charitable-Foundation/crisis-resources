@@ -46,6 +46,13 @@ When you reach out, it's helpful (but not required) to include:
 
 Every correction, update, and suggestion helps ensure that someone in crisis can find the help they're looking for. Whether you're a mental health professional, a community member, someone who's used these services, or simply someone who cares—**thank you for taking the time to help keep this directory accurate.**
 
+### Past Contributors
+
+- [Kristen Zucker](https://www.linkedin.com/in/kristen-zucker-435627206)
+- [Youran Zhao](https://www.linkedin.com/in/skyezhao/)
+- [Alstra Solutions Ltd.](https://alstra.ca/): Web Design
+- [IUK Studio](https://iuk.ca/portfolio/ymhc-crisis-resources): Web Design and AI Optimization
+
 ---
 
 *The YMHC Crisis Resources Directory is maintained by Youth Mental Health Canada, a charitable organization dedicated to supporting youth mental health through education, resources, and advocacy. Learn more at [ymhc.ngo](https://ymhc.ngo).*
