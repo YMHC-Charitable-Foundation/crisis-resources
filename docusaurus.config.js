@@ -148,7 +148,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Youth Mental Health Canada.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Youth Mental Health Canada.<br />Developed by <a href="https://iuk.ca/" target="_blank" rel="noopener noreferrer">IUK.CA</a>`,
       },
       prism: {
         theme: prismThemes.github,
