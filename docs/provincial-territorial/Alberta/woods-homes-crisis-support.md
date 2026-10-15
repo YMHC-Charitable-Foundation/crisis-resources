@@ -10,7 +10,7 @@ Wood’s Homes provides crisis counselling and mental health supports for childr
 - **Calgary (and area)**
 
 ## Who it’s for
-- Children, youth (ages 18–24), adults, and families seeking crisis counselling, support, or help navigating mental health services
+- Children, youth, adults, and families seeking crisis counselling, support, or help navigating mental health services
 
 ## Contact
 - **Call:** 403-299-9699
@@ -35,4 +35,4 @@ Wood's Homes describes Eastside Community Mental Health Services as confidential
 - Wood’s Homes – Eastside Community Mental Health Services (call/text/chat hours): https://www.woodshomes.ca/eastside-community-mental-health-services/
 - Wood’s Homes – Mental Health Matters (lists phone numbers): https://www.woodshomes.ca/mentalhealthmatters/
 
-*Last compiled/checked: December 23, 2025*
+*Last compiled/checked: October 15, 2026*
