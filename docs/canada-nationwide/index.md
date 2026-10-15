@@ -19,3 +19,4 @@ sidebar_position: 5
 - [Naseeha Mental Health Helpline (24/7)](./naseeha-mental-health-helpline.md)
 - [National Indian Residential School Crisis Line (Canada)](./national-indian-residential-school-crisis-line.md)
 - [Trans Lifeline (Canada hotline)](./trans-lifeline-canada.md)
+- [VAC Assistance Service (Veterans, former RCMP members, families and caregivers — Canada)](./vac-assistance-service.md)
