@@ -42,6 +42,5 @@ Language notes are shown in English for easier scanning. **Mainly French (Princi
 - [La Maison sous les Arbres (Centre de crise et prévention du suicide)](./la-maison-sous-les-arbres-longueuil.md) — Mainly French (Principalement français)
 - [Le Tournant (Centre de crise et prévention du suicide — Montérégie-Ouest)](./le-tournant-valleyfield.md) — Mainly French (Principalement français)
 - [Centre de prévention du suicide Côte-Nord (CPS Côte-Nord)](./north-shore-suicide-prevention-help-line-baie-comeau.md) — Mainly French (Principalement français)
-- [Centre d’aide 24/7 (Outaouais) — Hébergement de crise](./outaouais-help-centre-24-7.md) — Mainly French (Principalement français)
 - [1 866 APPELLE : Ligne québécoise de prévention du suicide](./quebec-suicide-prevention-crisis-line-appelle.md) — Mainly French (Principalement français)
 - [Tel-jeunes (Jeunes et Parents)](./tel-jeunes-youth-and-parents.md) — French and English
