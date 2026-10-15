@@ -20,8 +20,9 @@ Communities across north‑east Saskatchewan, including Melfort, Nipawin and sur
 ## Contact
 
 - **24‑hour crisis line (Women's Shelter):** 306‑752‑9455
+- **24/7 crisis line (toll-free):** 1-800-611-6349
 - **Admin offices (Melfort):** 306‑752‑9464 (Monday–Friday 8:00 am – 4:00 pm)
-- **Outreach:** 306‑752‑6535 (Monday–Friday 8:00 am – 4:00 pm)
+- **Outreach (Melfort & area):** 306‑752‑9464 (Monday–Friday 8:00 am – 4:00 pm)
 - **Nipawin area outreach:** 306‑812‑7292
 - **Email:** adm@neoss.ca
 - **Address:** 124 McKendry Ave W, Melfort, SK S0E 1A0
@@ -42,7 +43,7 @@ When you call the 24‑hour crisis line, a trained worker will provide emotional
 
 ## Sources
 
-- North East Outreach & Support Services – contact and program information (crisis line, admin offices, outreach, hours).
-- Saskatchewan rapid access to mental health resources (listing for North East Outreach & Support Services).
+- North East Outreach & Support Services – contact and program information (crisis line, admin offices, outreach, hours): https://www.neoss.ca/
+- Government of Saskatchewan – Rapid Access, Crisis and Emergency Resources (North East Outreach and Support Centre, 1-800-611-6349): https://www.saskatchewan.ca/residents/health/accessing-health-care-services/mental-health-and-addictions-support-services/rapid-access-crisis-and-emergency-resources
 
-*Last compiled/checked: December 24, 2025*
+*Last compiled/checked: October 15, 2026*
