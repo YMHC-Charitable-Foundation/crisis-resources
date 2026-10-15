@@ -6,7 +6,7 @@ sidebar_label: "CPS de l’Est"
 Le **Centre de prévention du suicide de l’Est** offre des services de prévention, d’intervention et de postvention liés au suicide.
 
 ## Couverture
-- **Bas‑Saint‑Laurent** (et services selon territoire)
+- **Est‑du‑Québec :** de la Gaspésie au Bas‑Saint‑Laurent en passant par les Îles‑de‑la‑Madeleine
 
 ## Pour qui
 - Personnes qui pensent au suicide
@@ -14,18 +14,19 @@ Le **Centre de prévention du suicide de l’Est** offre des services de préven
 - Personnes endeuillées
 
 ## Contact
-- **Ligne locale:** 418 724-2463
-- **En tout temps (24/7):** **1 866 APPELLE** (1 866 277-3553)
-- **Clavardage (Québec):** suicide.ca
+- **En tout temps (24/7) :** **1 866 APPELLE** (1 866 277-3553)
+- **Clavardage (Québec) :** suicide.ca
+- **Administration :** 418 724-4337 (pas pour les situations de crise)
 
 ## Heures
-- **24/7:** via **1 866 APPELLE** (et ligne locale selon disponibilité)
+- **24/7** via **1 866 APPELLE**
 
 ## Langues
 - Français
 
 ## Sources
-- Site officiel: https://www.cpse.ca/
-- Clavardage / aide 24/7: https://suicide.ca/fr
+- Site officiel (territoire desservi) : https://www.cpse.ca/
+- Page « Contactez-nous » (1 866 277-3553, administration) : https://www.cpse.ca/contactez-nous
+- Clavardage / aide 24/7 : https://suicide.ca/fr
 
-*Dernière vérification : 24 décembre 2025*
+*Dernière vérification : 15 octobre 2026*
