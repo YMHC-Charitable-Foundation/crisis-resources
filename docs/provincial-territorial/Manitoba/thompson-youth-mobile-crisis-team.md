@@ -21,11 +21,12 @@ Thompson and Northern Health Region communities (Northern Manitoba).
 - Mobile Crisis Team: **12:00 noon – 12:00 midnight (daily)**, plus **8:30 a.m. – 4:30 p.m. (Mon–Fri)** for triage/follow-up
 
 ## Notes
-- The Hope North facility at **70 Princeton Drive, Thompson** re-opened in **February 2026** (the facility had been temporarily closed for repairs). In-person services are now available again in addition to phone support.
+- The Hope North facility at **70 Princeton Drive, Thompson** was temporarily closed for repairs in September 2025. Northern Health Region reports that **all services reopened on location as of February 22, 2026**. In-person services are available again in addition to phone support.
 
 ## Sources
 - Northern Health Region — Mental Health (Youth intake contact): https://northernhealthregion.com/programs-and-services/mental-health/
 - Hope North Recovery Centre for Youth — services notice (hours and phone): https://northernhealthregion.com/wp-content/uploads/2020/05/Hope-North-Notice-2020-2.pdf
 - Northern Health Region news — Hope North temporary closure (phone remains available): https://northernhealthregion.com/2025/09/22/hope-north-thompson-temp-closure/
+- Northern Health Region — Hope North Recovery Centre for Youth (reopening February 22, 2026): https://northernhealthregion.com/hope-north-recovery-centre-for-youth/
 
-*Last compiled/checked: December 23, 2025*
+*Last compiled/checked: October 15, 2026*

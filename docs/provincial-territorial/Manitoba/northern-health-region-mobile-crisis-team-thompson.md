@@ -29,11 +29,12 @@ The Northern Health Region has launched a **centralized youth mental health inta
 - **Email:** youthmentalhealth@nrha.ca
 
 ## Notes
-- As of **September 2025**, the Hope North facility in Thompson was reported as temporarily closed for repairs, but **Mobile Crisis Services remain available by phone**.
+- The Hope North facility in Thompson was temporarily closed for repairs in September 2025. Northern Health Region reports that **all services reopened on location at Hope North Recovery Centre for Youth as of February 22, 2026**, including community and crisis services and the crisis and drug stabilization unit.
 
 ## Sources
 - Hope North Recovery Centre for Youth — services notice (includes hours and phone): https://northernhealthregion.com/wp-content/uploads/2020/05/Hope-North-Notice-2020-2.pdf
 - Northern Health Region — New Youth Mental Health Central Intake (updated May 2025): https://northernhealthregion.com/new-youth-mental-health-central-intake/
 - Northern Health Region news — Hope North temporary closure (phone remains available): https://northernhealthregion.com/2025/09/22/hope-north-thompson-temp-closure/
+- Northern Health Region — Hope North Recovery Centre for Youth (reopening February 22, 2026): https://northernhealthregion.com/hope-north-recovery-centre-for-youth/
 
-*Last compiled/checked: December 23, 2025*
+*Last compiled/checked: October 15, 2026*
