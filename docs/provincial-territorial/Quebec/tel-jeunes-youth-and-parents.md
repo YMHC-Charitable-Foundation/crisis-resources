@@ -16,7 +16,7 @@ sidebar_label: "Tel-jeunes"
 ## Contact
 ### Jeunes (parler avec un·e intervenant·e)
 - **Appel :** 1-800-263-2266
-- **Texto :** 514-600-1002
+- **Texto :** 1-866-811-4811
 - **Clavardage :** via teljeunes.com (section *Chat*)
 
 ### Parents d’ados (parler avec un·e intervenant·e)
@@ -24,13 +24,8 @@ sidebar_label: "Tel-jeunes"
 - **Clavardage :** via teljeunes.com (section *Parents*)
 
 ## Heures
-### Jeunes (intervenant·e)
-- **Appel :** 6 h à 2 h
-- **Texto / Chat :** 8 h à 22 h 30
-
-### Parents (intervenant·e)
-- **Appel :** 6 h à minuit
-- **Clavardage :** 6 h à 22 h 30
+- **Tous les services (jeunes et parents) :** tous les jours, **8 h à minuit**
+- La file d’attente ferme à **23 h 45**.
 
 ## Langues
 - **Français et anglais**
@@ -40,7 +35,8 @@ sidebar_label: "Tel-jeunes"
 - Les services sont **confidentiels**, mais si l’équipe a des motifs raisonnables de croire qu’une personne est en danger, elle peut **informer les services d’urgence**.
 
 ## Sources
-- Tel-jeunes — page « Nous contacter » (heures, options, confidentialité, langues) : https://www.teljeunes.com/fr/a-propos/joindre-l-administration
+- Tel-jeunes — page « Nous contacter » (numéros, heures, options, confidentialité, langues) : https://www.teljeunes.com/fr/a-propos/joindre-l-administration
+- Tel-jeunes — page « Contact us » (version anglaise) : https://www.teljeunes.com/Tel-jeunes-en/Contact-us
 - Règles du Forum Tj (âge 12–20, Québec) : https://www.teljeunes.com/forumtj/regles-espacetj
 
-*Last compiled/checked: 23 décembre 2025*
+*Last compiled/checked: 15 octobre 2026*
