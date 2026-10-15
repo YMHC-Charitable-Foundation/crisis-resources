@@ -16,7 +16,6 @@ Personnes vivant une situation de **détresse psychosociale, psychiatrique ou ps
 
 ## Contact
 - **Ligne de crise (24/7) :** 450-699-5935
-- **Sans frais :** 1-855-450-699-5935
 - **Administration :** 450-691-8882
 - **Courriel :** admin@la-msla.com
 
@@ -29,8 +28,11 @@ Selon la situation, l’équipe peut offrir :
 - **Hébergement de crise**
 - Suivi de crise (individuel / suivi étroit), postvention et références
 
+## Notes
+- Le site de l’organisme affiche un numéro sans frais incomplet (« 1-855-450-699-5935 », 14 chiffres) qui ne peut pas être composé. Il a été retiré en attendant une confirmation de l’organisme. Utilisez la ligne de crise 24/7 : **450-699-5935**.
+
 ## Sources
 - Site officiel (services, territoire, contacts) : https://www.la-msla.com/
 - Page « Intervention de crise » (description des services, numéros) : https://www.la-msla.com/fr/services/intervention-crise/
 
-*Last compiled/checked: 23 décembre 2025*
+*Last compiled/checked: 15 octobre 2026*
