@@ -18,9 +18,10 @@ Hudson Bay and surrounding district in northeast Saskatchewan.
 
 ## Contact
 
-- **24‑hour crisis line:** 1-306-752-9455
+- **24‑hour crisis line:** 1-306-752-9455 (as listed on the centre's website)
+- **24‑hour crisis line (toll-free):** 1-800-611-6349 (as listed by the Town of Hudson Bay; this is the North East 24/7 crisis line listed by the Government of Saskatchewan)
 - **Business line:** 306‑865‑3064
-- **Fax:** 306‑865‑3063
+- **Fax:** 306‑865‑3391
 - **Address:** 501 Churchill Street, Box 403, Hudson Bay, SK S0E 0Y0 (Blake Beattie Building) *(note: some 211 Saskatchewan listings show "501 Prince Street" for the same centre — confirm directly with the centre if needed)*
 - **Website:** https://hbfamilyandsupport.com/
 
@@ -42,6 +43,8 @@ Use a safe phone if someone else may see your call history. Ask staff about conf
 
 ## Sources
 
-- Town of Hudson Bay – Hudson Bay Family & Support Centre contact information and mission.
+- Hudson Bay Family & Support Centre website (24-hour crisis line 1-306-752-9455, business line): https://hbfamilyandsupport.com/
+- Town of Hudson Bay – Hudson Bay Family & Support Centre (24 Hour Crisis Line 1-800-611-6349, fax 865-3391): https://townofhudsonbay.com/?p=71
+- Government of Saskatchewan – Rapid Access, Crisis and Emergency Resources (North East 24/7 line 1-800-611-6349): https://www.saskatchewan.ca/residents/health/accessing-health-care-services/mental-health-and-addictions-support-services/rapid-access-crisis-and-emergency-resources
 
-*Last compiled/checked: December 24, 2025*
+*Last compiled/checked: October 15, 2026*
