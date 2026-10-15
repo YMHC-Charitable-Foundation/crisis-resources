@@ -18,7 +18,7 @@ A Friendly Voice is a **free, confidential “warm line”** for **older adults 
 - **Website:** https://afriendlyvoice.ca/
 
 ## Hours
-- **7 days/week, 8 a.m.–10 p.m.**
+- **Monday to Friday, 8 a.m.–5 p.m.**
 
 ## Languages
 - Service language is not clearly stated on the program’s main page; **ask when you call**.
@@ -32,4 +32,4 @@ You’ll be connected with a trained volunteer for a warm, supportive conversati
 ## Sources
 - A Friendly Voice (program overview, coverage, hours): https://afriendlyvoice.ca/
 
-*Last compiled/checked: December 23, 2025*
+*Last compiled/checked: October 15, 2026*
