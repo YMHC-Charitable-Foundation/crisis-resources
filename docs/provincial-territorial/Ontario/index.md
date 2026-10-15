@@ -26,4 +26,4 @@ sidebar_label: "Ontario"
 - [Distress Centre Lanark, Leeds and Grenville](./lanark-leeds-and-grenville-distress-line.md)
 - [Reach Out 24/7 – London & area](./reach-out-24-7-london-area.md)
 - [Red Lake Hospital Crisis Support](./red-lake-hospital-crisis-line.md)
-- [Windsor & Essex Distress Line](./windsor-essex-distress-line.md)
+- [Windsor-Essex 24-Hour Crisis Line](./windsor-essex-24-hour-crisis-line.md)
