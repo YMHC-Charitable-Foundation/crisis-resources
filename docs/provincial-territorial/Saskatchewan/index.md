@@ -15,5 +15,6 @@ sidebar_label: "Saskatchewan"
 - [North East Outreach & Support Services (NEOSS)](./north-east-crisis-intervention-centre.md)
 - [Prince Albert Mobile Crisis Unit](./prince-albert-mobile-crisis-unit.md)
 - [Regina Mobile Crisis Services](./regina-mobile-crisis-services.md)
+- [Saskatoon Crisis Intervention Service (Mobile Crisis Service)](./saskatoon-crisis-intervention-service.md)
 - [Southwest Crisis Services](./southwest-crisis-services.md)
 - [West Central Crisis & Family Support Centre](./west-central-crisis-and-family-support-centre.md)

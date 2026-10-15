@@ -39,7 +39,8 @@ When you call, an intake worker will ask about your mental health or addiction c
 
 ## Notes
 
-- If you need after‑hours or emergency help, call **9‑8‑8** (national suicide and mental health crisis line), **HealthLine 811** or **911** if there is an immediate risk.
+- If you need after‑hours crisis help in Saskatoon, call [Saskatoon Crisis Intervention Service](./saskatoon-crisis-intervention-service.md) at **306‑933‑6200** (24/7, phone and mobile response).
+- You can also call **9‑8‑8** (national suicide and mental health crisis line), **HealthLine 811** or **911** if there is an immediate risk.
 - People outside Saskatoon or in the Five Hills Health Region should call **306‑691‑6464** or **1‑877‑564‑0543** for mental health and addictions intake.
 - HealthLine 811 is a confidential 24/7 health and mental health advice line staffed by registered nurses and social workers.
 
